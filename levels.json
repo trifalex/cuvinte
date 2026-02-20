@@ -1,1182 +1,2656 @@
 [
   {
     "letters": [
-      "D",
-      "O",
-      "R",
+      "G",
       "A",
-      "V"
+      "Z"
     ],
     "words": [
-      "VAR",
-      "ROD"
+      "GAZ",
+      "ZAG"
     ],
-    "emoji": "❤️"
-  },
-  {
-    "letters": [
-      "D",
-      "O",
-      "R"
-    ],
-    "words": [
-      "DOR",
-      "ROD"
-    ],
-    "emoji": "❤️"
-  },
-  {
-    "letters": [
-      "A",
-      "C",
-      "R"
-    ],
-    "words": [
-      "ARC",
-      "CAR"
-    ],
-    "emoji": "🌈"
-  },
-  {
-    "letters": [
-      "R",
-      "A",
-      "M"
-    ],
-    "words": [
-      "RAM",
-      "MAR"
-    ],
-    "emoji": "🌳"
-  },
-  {
-    "letters": [
-      "P",
-      "A",
-      "R"
-    ],
-    "words": [
-      "PAR",
-      "RAP"
-    ],
-    "emoji": "🍐"
-  },
-  {
-    "letters": [
-      "S",
-      "A",
-      "C"
-    ],
-    "words": [
-      "SAC",
-      "CAS"
-    ],
-    "emoji": "👜"
-  },
-  {
-    "letters": [
-      "L",
-      "A",
-      "C"
-    ],
-    "words": [
-      "LAC",
-      "CAL"
-    ],
-    "emoji": "🐴"
-  },
-  {
-    "letters": [
-      "V",
-      "A",
-      "L"
-    ],
-    "words": [
-      "VAL",
-      "LAV"
-    ],
-    "emoji": "🌊"
-  },
-  {
-    "letters": [
-      "T",
-      "O",
-      "R"
-    ],
-    "words": [
-      "TOR",
-      "ROT"
-    ],
-    "emoji": "🔄"
-  },
-  {
-    "letters": [
-      "C",
-      "O",
-      "S"
-    ],
-    "words": [
-      "COS",
-      "SOC"
-    ],
-    "emoji": "🧺"
-  },
-  {
-    "letters": [
-      "F",
-      "O",
-      "C"
-    ],
-    "words": [
-      "FOC",
-      "COF"
-    ],
-    "emoji": "🔥"
-  },
-  {
-    "letters": [
-      "L",
-      "U",
-      "P"
-    ],
-    "words": [
-      "LUP",
-      "PUL"
-    ],
-    "emoji": "🐺"
-  },
-  {
-    "letters": [
-      "R",
-      "A",
-      "S"
-    ],
-    "words": [
-      "RAS",
-      "SAR"
-    ],
-    "emoji": "😄"
-  },
-  {
-    "letters": [
-      "P",
-      "A",
-      "S"
-    ],
-    "words": [
-      "PAS",
-      "SAP"
-    ],
-    "emoji": "👣"
+    "emoji": "⛽"
   },
   {
     "letters": [
       "B",
-      "A",
-      "T"
+      "U",
+      "N"
     ],
     "words": [
-      "BAT",
-      "TAB"
+      "BUN",
+      "NUB"
     ],
-    "emoji": "🏏"
+    "emoji": "😊"
   },
   {
     "letters": [
-      "C",
+      "F",
       "U",
-      "R"
+      "G"
     ],
     "words": [
-      "CUR",
-      "RUC"
+      "FUG",
+      "GUF"
     ],
-    "emoji": "🔧"
+    "emoji": "🏃"
+  },
+  {
+    "letters": [
+      "M",
+      "E",
+      "L"
+    ],
+    "words": [
+      "MEL",
+      "LEM"
+    ],
+    "emoji": "🍯"
+  },
+  {
+    "letters": [
+      "G",
+      "E",
+      "L"
+    ],
+    "words": [
+      "GEL",
+      "LEG"
+    ],
+    "emoji": "🧊"
+  },
+  {
+    "letters": [
+      "T",
+      "U",
+      "B"
+    ],
+    "words": [
+      "TUB",
+      "BUT"
+    ],
+    "emoji": "🛁"
   },
   {
     "letters": [
       "N",
       "O",
-      "R"
+      "D"
     ],
     "words": [
-      "NOR",
-      "RON"
+      "NOD",
+      "DON"
     ],
-    "emoji": "☁️"
-  },
-  {
-    "letters": [
-      "M",
-      "O",
-      "S"
-    ],
-    "words": [
-      "MOS",
-      "SOM"
-    ],
-    "emoji": "🎅"
-  },
-  {
-    "letters": [
-      "T",
-      "U",
-      "S"
-    ],
-    "words": [
-      "TUS",
-      "SUT"
-    ],
-    "emoji": "⚽"
+    "emoji": "🪢"
   },
   {
     "letters": [
       "V",
       "I",
-      "S"
+      "N"
     ],
     "words": [
-      "VIS",
-      "SIV"
+      "VIN",
+      "NVI"
     ],
-    "emoji": "💭"
+    "emoji": "🍷"
   },
   {
     "letters": [
-      "R",
-      "U",
-      "G"
+      "Z",
+      "I",
+      "D"
     ],
     "words": [
-      "RUG",
-      "GUR"
+      "ZID",
+      "DIZ"
     ],
-    "emoji": "🙏"
+    "emoji": "🧱"
   },
   {
     "letters": [
-      "T",
-      "A",
-      "T",
-      "Ă",
-      "S"
+      "L",
+      "E",
+      "U"
     ],
     "words": [
-      "TATĂ",
-      "SAT",
-      "TAS"
+      "LEU",
+      "ULE"
     ],
-    "emoji": "🏠"
-  },
-  {
-    "letters": [
-      "C",
-      "A",
-      "S",
-      "Ă",
-      "R"
-    ],
-    "words": [
-      "CASĂ",
-      "SAC",
-      "ARC"
-    ],
-    "emoji": "🏡"
-  },
-  {
-    "letters": [
-      "M",
-      "A",
-      "R",
-      "E"
-    ],
-    "words": [
-      "MARE",
-      "RAM",
-      "ERA"
-    ],
-    "emoji": "🌊"
-  },
-  {
-    "letters": [
-      "P",
-      "A",
-      "R",
-      "C"
-    ],
-    "words": [
-      "PARC",
-      "CAP",
-      "ARC"
-    ],
-    "emoji": "🌳"
-  },
-  {
-    "letters": [
-      "B",
-      "A",
-      "N",
-      "I"
-    ],
-    "words": [
-      "BANI",
-      "BAN",
-      "NAI"
-    ],
-    "emoji": "💰"
+    "emoji": "🦁"
   },
   {
     "letters": [
       "S",
       "O",
-      "R",
-      "T"
+      "L"
     ],
     "words": [
-      "SORT",
-      "ROT",
-      "TOR"
+      "SOL",
+      "LOS"
+    ],
+    "emoji": "🌍"
+  },
+  {
+    "letters": [
+      "B",
+      "O",
+      "L"
+    ],
+    "words": [
+      "BOL",
+      "LOB"
+    ],
+    "emoji": "🏥"
+  },
+  {
+    "letters": [
+      "P",
+      "I",
+      "N"
+    ],
+    "words": [
+      "PIN",
+      "NIP"
+    ],
+    "emoji": "📌"
+  },
+  {
+    "letters": [
+      "G",
+      "U",
+      "R"
+    ],
+    "words": [
+      "GUR",
+      "RUG"
+    ],
+    "emoji": "👄"
+  },
+  {
+    "letters": [
+      "N",
+      "U",
+      "C"
+    ],
+    "words": [
+      "NUC",
+      "CUN"
+    ],
+    "emoji": "🌰"
+  },
+  {
+    "letters": [
+      "T",
+      "I",
+      "N"
+    ],
+    "words": [
+      "TIN",
+      "NIT"
+    ],
+    "emoji": "🥫"
+  },
+  {
+    "letters": [
+      "F",
+      "I",
+      "N"
+    ],
+    "words": [
+      "FIN",
+      "NIF"
+    ],
+    "emoji": "🏁"
+  },
+  {
+    "letters": [
+      "M",
+      "I",
+      "R"
+    ],
+    "words": [
+      "MIR",
+      "RIM"
+    ],
+    "emoji": "👃"
+  },
+  {
+    "letters": [
+      "Z",
+      "A",
+      "R"
+    ],
+    "words": [
+      "ZAR",
+      "RAZ"
     ],
     "emoji": "🎲"
   },
   {
     "letters": [
-      "T",
+      "F",
       "U",
-      "R",
-      "N"
+      "R"
     ],
     "words": [
-      "TURN",
-      "TUR",
-      "NUR"
+      "FUR",
+      "RUF"
     ],
-    "emoji": "🏰"
+    "emoji": "🧥"
+  },
+  {
+    "letters": [
+      "R",
+      "A",
+      "I"
+    ],
+    "words": [
+      "RAI",
+      "AIR"
+    ],
+    "emoji": "😇"
+  },
+  {
+    "letters": [
+      "B",
+      "O",
+      "I"
+    ],
+    "words": [
+      "BOI",
+      "IOB"
+    ],
+    "emoji": "🐂"
+  },
+  {
+    "letters": [
+      "S",
+      "O",
+      "I"
+    ],
+    "words": [
+      "SOI",
+      "IOS"
+    ],
+    "emoji": "🌱"
+  },
+  {
+    "letters": [
+      "O",
+      "R",
+      "A"
+    ],
+    "words": [
+      "ORA",
+      "ROA"
+    ],
+    "emoji": "⏰"
+  },
+  {
+    "letters": [
+      "M",
+      "A",
+      "I"
+    ],
+    "words": [
+      "MAI",
+      "IAM"
+    ],
+    "emoji": "🌸"
+  },
+  {
+    "letters": [
+      "A",
+      "U",
+      "R"
+    ],
+    "words": [
+      "AUR",
+      "RUA"
+    ],
+    "emoji": "✨"
+  },
+  {
+    "letters": [
+      "R",
+      "E",
+      "M"
+    ],
+    "words": [
+      "REM",
+      "MER"
+    ],
+    "emoji": "🚣"
+  },
+  {
+    "letters": [
+      "S",
+      "I",
+      "R"
+    ],
+    "words": [
+      "SIR",
+      "RIS"
+    ],
+    "emoji": "📊"
+  },
+  {
+    "letters": [
+      "T",
+      "O",
+      "P"
+    ],
+    "words": [
+      "TOP",
+      "POT"
+    ],
+    "emoji": "🔝"
+  },
+  {
+    "letters": [
+      "B",
+      "U",
+      "S"
+    ],
+    "words": [
+      "BUS",
+      "SUB"
+    ],
+    "emoji": "🚌"
+  },
+  {
+    "letters": [
+      "P",
+      "U",
+      "B"
+    ],
+    "words": [
+      "PUB",
+      "BUP"
+    ],
+    "emoji": "🍻"
+  },
+  {
+    "letters": [
+      "Z",
+      "A",
+      "T"
+    ],
+    "words": [
+      "ZAT",
+      "TAZ"
+    ],
+    "emoji": "☕"
+  },
+  {
+    "letters": [
+      "R",
+      "O",
+      "S"
+    ],
+    "words": [
+      "ROS",
+      "SOR"
+    ],
+    "emoji": "🌹"
+  },
+  {
+    "letters": [
+      "C",
+      "U",
+      "B"
+    ],
+    "words": [
+      "CUB",
+      "BUC"
+    ],
+    "emoji": "🧊"
+  },
+  {
+    "letters": [
+      "A",
+      "R",
+      "G"
+    ],
+    "words": [
+      "ARG",
+      "GRA"
+    ],
+    "emoji": "🥈"
+  },
+  {
+    "letters": [
+      "D",
+      "U",
+      "C"
+    ],
+    "words": [
+      "DUC",
+      "CUD"
+    ],
+    "emoji": "👑"
+  },
+  {
+    "letters": [
+      "S",
+      "U",
+      "R"
+    ],
+    "words": [
+      "SUR",
+      "RUS"
+    ],
+    "emoji": "🔨"
+  },
+  {
+    "letters": [
+      "R",
+      "A",
+      "C"
+    ],
+    "words": [
+      "RAC",
+      "CAR"
+    ],
+    "emoji": "🦀"
+  },
+  {
+    "letters": [
+      "M",
+      "A",
+      "C"
+    ],
+    "words": [
+      "MAC",
+      "CAM"
+    ],
+    "emoji": "🌺"
+  },
+  {
+    "letters": [
+      "M",
+      "I",
+      "C"
+    ],
+    "words": [
+      "MIC",
+      "CIM"
+    ],
+    "emoji": "🔬"
+  },
+  {
+    "letters": [
+      "D",
+      "R",
+      "U",
+      "M"
+    ],
+    "words": [
+      "DRUM",
+      "RUM",
+      "DUR"
+    ],
+    "emoji": "🛣️"
+  },
+  {
+    "letters": [
+      "G",
+      "A",
+      "R",
+      "D"
+    ],
+    "words": [
+      "GARD",
+      "DAR",
+      "RAG",
+      "GRAD"
+    ],
+    "emoji": "🏡"
+  },
+  {
+    "letters": [
+      "F",
+      "R",
+      "I",
+      "G"
+    ],
+    "words": [
+      "FRIG",
+      "FIR",
+      "RIG"
+    ],
+    "emoji": "❄️"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "L",
+      "D"
+    ],
+    "words": [
+      "CALD",
+      "CAL",
+      "LAC",
+      "DAL"
+    ],
+    "emoji": "🌡️"
+  },
+  {
+    "letters": [
+      "D",
+      "A",
+      "N",
+      "S"
+    ],
+    "words": [
+      "DANS",
+      "DAN",
+      "NAS"
+    ],
+    "emoji": "💃"
   },
   {
     "letters": [
       "G",
       "R",
       "A",
-      "D"
+      "S"
     ],
     "words": [
-      "GRAD",
-      "DAR",
-      "RAG"
+      "GRAS",
+      "RAS",
+      "SAR",
+      "GAR"
     ],
-    "emoji": "🎓"
+    "emoji": "🧈"
+  },
+  {
+    "letters": [
+      "P",
+      "R",
+      "A",
+      "F"
+    ],
+    "words": [
+      "PRAF",
+      "PAR",
+      "FAR",
+      "RAP"
+    ],
+    "emoji": "💨"
+  },
+  {
+    "letters": [
+      "S",
+      "T",
+      "O",
+      "P"
+    ],
+    "words": [
+      "STOP",
+      "TOP",
+      "POT",
+      "SOP"
+    ],
+    "emoji": "🛑"
+  },
+  {
+    "letters": [
+      "V",
+      "A",
+      "L",
+      "S"
+    ],
+    "words": [
+      "VALS",
+      "VAL",
+      "SAL",
+      "LAV"
+    ],
+    "emoji": "💃"
+  },
+  {
+    "letters": [
+      "M",
+      "U",
+      "S",
+      "T"
+    ],
+    "words": [
+      "MUST",
+      "MUS",
+      "TUS",
+      "SUT"
+    ],
+    "emoji": "🍇"
+  },
+  {
+    "letters": [
+      "G",
+      "U",
+      "S",
+      "T"
+    ],
+    "words": [
+      "GUST",
+      "GUS",
+      "TUS",
+      "SUT"
+    ],
+    "emoji": "👅"
+  },
+  {
+    "letters": [
+      "R",
+      "A",
+      "F",
+      "T"
+    ],
+    "words": [
+      "RAFT",
+      "FAR",
+      "ART",
+      "RAT"
+    ],
+    "emoji": "🚣"
   },
   {
     "letters": [
       "S",
       "A",
-      "R",
-      "E"
+      "L",
+      "T"
     ],
     "words": [
-      "SARE",
-      "RAS",
-      "ERA"
+      "SALT",
+      "SAL",
+      "LAT",
+      "SAT"
     ],
     "emoji": "🧂"
   },
   {
     "letters": [
+      "D",
+      "R",
+      "A",
+      "G"
+    ],
+    "words": [
+      "DRAG",
+      "DAR",
+      "RAG",
+      "GAR"
+    ],
+    "emoji": "❤️"
+  },
+  {
+    "letters": [
+      "D",
+      "R",
+      "A",
+      "M"
+    ],
+    "words": [
+      "DRAM",
+      "DAR",
+      "RAM",
+      "MAR"
+    ],
+    "emoji": "🎭"
+  },
+  {
+    "letters": [
+      "M",
+      "A",
+      "S",
+      "T"
+    ],
+    "words": [
+      "MAST",
+      "MAS",
+      "SAT",
+      "MAT"
+    ],
+    "emoji": "⛵"
+  },
+  {
+    "letters": [
+      "P",
+      "A",
+      "C",
+      "T"
+    ],
+    "words": [
+      "PACT",
+      "PAC",
+      "CAP",
+      "PAT"
+    ],
+    "emoji": "🤝"
+  },
+  {
+    "letters": [
+      "V",
+      "A",
+      "S",
+      "T"
+    ],
+    "words": [
+      "VAST",
+      "VAS",
+      "SAT",
+      "VAT"
+    ],
+    "emoji": "🌌"
+  },
+  {
+    "letters": [
+      "B",
+      "O",
+      "R",
+      "D"
+    ],
+    "words": [
+      "BORD",
+      "BOR",
+      "ROD",
+      "ROB"
+    ],
+    "emoji": "🚢"
+  },
+  {
+    "letters": [
+      "M",
+      "O",
+      "R",
+      "T"
+    ],
+    "words": [
+      "MORT",
+      "MOR",
+      "ROT",
+      "TOR"
+    ],
+    "emoji": "💀"
+  },
+  {
+    "letters": [
+      "S",
+      "C",
+      "U",
+      "T"
+    ],
+    "words": [
+      "SCUT",
+      "CUT",
+      "CUS",
+      "TUS"
+    ],
+    "emoji": "🛡️"
+  },
+  {
+    "letters": [
+      "F",
+      "A",
+      "R",
+      "D"
+    ],
+    "words": [
+      "FARD",
+      "FAR",
+      "DAR",
+      "RAD"
+    ],
+    "emoji": "💄"
+  },
+  {
+    "letters": [
+      "C",
+      "R",
+      "I",
+      "N"
+    ],
+    "words": [
+      "CRIN",
+      "CRI",
+      "RIN",
+      "NIC"
+    ],
+    "emoji": "🌸"
+  },
+  {
+    "letters": [
+      "B",
+      "R",
+      "U",
+      "T"
+    ],
+    "words": [
+      "BRUT",
+      "BUR",
+      "TUR",
+      "RUT"
+    ],
+    "emoji": "🍾"
+  },
+  {
+    "letters": [
+      "C",
       "L",
+      "A",
+      "R"
+    ],
+    "words": [
+      "CLAR",
+      "CAR",
+      "LAR",
+      "ARC"
+    ],
+    "emoji": "💎"
+  },
+  {
+    "letters": [
+      "M",
+      "U",
+      "R",
+      "G"
+    ],
+    "words": [
+      "MURG",
+      "MUR",
+      "RUG",
+      "GUR"
+    ],
+    "emoji": "🐴"
+  },
+  {
+    "letters": [
+      "F",
       "U",
       "N",
+      "D"
+    ],
+    "words": [
+      "FUND",
+      "FUN",
+      "NUD",
+      "DUN"
+    ],
+    "emoji": "🔚"
+  },
+  {
+    "letters": [
+      "L",
+      "A",
+      "R",
+      "G"
+    ],
+    "words": [
+      "LARG",
+      "LAR",
+      "RAG",
+      "GAR"
+    ],
+    "emoji": "🌊"
+  },
+  {
+    "letters": [
+      "G",
+      "L",
+      "A",
+      "S"
+    ],
+    "words": [
+      "GLAS",
+      "GAS",
+      "SAL",
+      "LAG"
+    ],
+    "emoji": "🔊"
+  },
+  {
+    "letters": [
+      "R",
+      "O",
+      "S",
+      "T"
+    ],
+    "words": [
+      "ROST",
+      "ROS",
+      "ROT",
+      "TOR"
+    ],
+    "emoji": "🗣️"
+  },
+  {
+    "letters": [
+      "T",
+      "R",
+      "U",
+      "P"
+    ],
+    "words": [
+      "TRUP",
+      "TUR",
+      "RUP",
+      "PUR"
+    ],
+    "emoji": "🧍"
+  },
+  {
+    "letters": [
+      "P",
+      "R",
+      "I",
+      "M"
+    ],
+    "words": [
+      "PRIM",
+      "PIR",
+      "RIM",
+      "MIR"
+    ],
+    "emoji": "🥇"
+  },
+  {
+    "letters": [
+      "P",
+      "R",
+      "A",
+      "G"
+    ],
+    "words": [
+      "PRAG",
+      "PAR",
+      "RAG",
+      "GAP"
+    ],
+    "emoji": "🚪"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "M",
+      "P"
+    ],
+    "words": [
+      "CAMP",
+      "CAP",
+      "MAC",
+      "PAM"
+    ],
+    "emoji": "⛺"
+  },
+  {
+    "letters": [
+      "N",
+      "A",
+      "I",
+      "V"
+    ],
+    "words": [
+      "NAIV",
+      "NAI",
+      "VAN",
+      "VIN"
+    ],
+    "emoji": "😇"
+  },
+  {
+    "letters": [
+      "R",
+      "A",
+      "N",
+      "G"
+    ],
+    "words": [
+      "RANG",
+      "RAN",
+      "NAR",
+      "GAR"
+    ],
+    "emoji": "🎖️"
+  },
+  {
+    "letters": [
+      "S",
+      "U",
+      "R",
+      "F"
+    ],
+    "words": [
+      "SURF",
+      "SUR",
+      "FUR",
+      "RUS"
+    ],
+    "emoji": "🏄"
+  },
+  {
+    "letters": [
+      "T",
+      "A",
+      "C",
+      "T"
+    ],
+    "words": [
+      "TACT",
+      "TAC",
+      "CAT",
+      "ACT"
+    ],
+    "emoji": "🤝"
+  },
+  {
+    "letters": [
+      "B",
+      "A",
+      "N",
+      "C"
+    ],
+    "words": [
+      "BANC",
+      "BAN",
+      "CAN",
+      "NAC"
+    ],
+    "emoji": "💺"
+  },
+  {
+    "letters": [
+      "M",
+      "A",
+      "R",
+      "S"
+    ],
+    "words": [
+      "MARS",
+      "MAR",
+      "RAS",
+      "SAR"
+    ],
+    "emoji": "🔴"
+  },
+  {
+    "letters": [
+      "P",
+      "U",
+      "L",
+      "S"
+    ],
+    "words": [
+      "PULS",
+      "PUL",
+      "LUP",
+      "SUL"
+    ],
+    "emoji": "💓"
+  },
+  {
+    "letters": [
+      "I",
+      "N",
+      "E",
+      "L"
+    ],
+    "words": [
+      "INEL",
+      "NIL",
+      "LIN",
+      "LEI"
+    ],
+    "emoji": "💍"
+  },
+  {
+    "letters": [
+      "Z",
+      "O",
+      "R",
+      "I"
+    ],
+    "words": [
+      "ZORI",
+      "ZOR",
+      "ROI",
+      "ORI"
+    ],
+    "emoji": "🌅"
+  },
+  {
+    "letters": [
+      "T",
+      "U",
+      "N",
+      "S"
+    ],
+    "words": [
+      "TUNS",
+      "TUN",
+      "NUS",
+      "SUN"
+    ],
+    "emoji": "✂️"
+  },
+  {
+    "letters": [
+      "P",
+      "O",
+      "S",
+      "T"
+    ],
+    "words": [
+      "POST",
+      "POT",
+      "TOP",
+      "SOP"
+    ],
+    "emoji": "📮"
+  },
+  {
+    "letters": [
+      "R",
+      "A",
+      "I",
+      "D"
+    ],
+    "words": [
+      "RAID",
+      "RAI",
+      "AIR",
+      "DAR"
+    ],
+    "emoji": "⚔️"
+  },
+  {
+    "letters": [
+      "C",
+      "R",
+      "U",
+      "D"
+    ],
+    "words": [
+      "CRUD",
+      "CUR",
+      "RUD",
+      "DUR"
+    ],
+    "emoji": "🥩"
+  },
+  {
+    "letters": [
+      "S",
+      "T",
+      "U",
+      "P"
+    ],
+    "words": [
+      "STUP",
+      "TUS",
+      "PUS",
+      "SUP"
+    ],
+    "emoji": "🐝"
+  },
+  {
+    "letters": [
+      "T",
+      "R",
+      "A",
+      "M"
+    ],
+    "words": [
+      "TRAM",
+      "RAM",
+      "MAR",
+      "ART"
+    ],
+    "emoji": "🚃"
+  },
+  {
+    "letters": [
+      "F",
+      "A",
+      "P",
+      "T"
+    ],
+    "words": [
+      "FAPT",
+      "FAP",
+      "PAT",
+      "APT"
+    ],
+    "emoji": "📝"
+  },
+  {
+    "letters": [
+      "N",
+      "O",
+      "T",
       "A"
     ],
     "words": [
-      "LUNA",
-      "LAN",
-      "NAL"
+      "NOTA",
+      "NOT",
+      "TON",
+      "TAN"
     ],
-    "emoji": "🌙"
+    "emoji": "📝"
+  },
+  {
+    "letters": [
+      "G",
+      "O",
+      "L",
+      "F"
+    ],
+    "words": [
+      "GOLF",
+      "GOL",
+      "FOL",
+      "LOG"
+    ],
+    "emoji": "⛳"
+  },
+  {
+    "letters": [
+      "T",
+      "R",
+      "A",
+      "P"
+    ],
+    "words": [
+      "TRAP",
+      "RAP",
+      "PAR",
+      "ART"
+    ],
+    "emoji": "🪤"
+  },
+  {
+    "letters": [
+      "D",
+      "U",
+      "E",
+      "L"
+    ],
+    "words": [
+      "DUEL",
+      "DUE",
+      "LED",
+      "LEU"
+    ],
+    "emoji": "⚔️"
   },
   {
     "letters": [
       "C",
       "U",
       "R",
-      "S"
+      "A",
+      "T"
     ],
     "words": [
-      "CURS",
-      "SUR",
-      "CUR"
+      "CURAT",
+      "CUR",
+      "ART",
+      "TUR",
+      "RAC"
     ],
-    "emoji": "📚"
+    "emoji": "✨"
   },
   {
     "letters": [
+      "S",
       "P",
       "O",
       "R",
       "T"
     ],
     "words": [
+      "SPORT",
       "PORT",
+      "SORT",
       "ROT",
-      "TOR"
+      "TOP"
     ],
-    "emoji": "⚓"
+    "emoji": "🏅"
   },
   {
     "letters": [
-      "M",
-      "I",
-      "N",
-      "A"
+      "D",
+      "R",
+      "E",
+      "P",
+      "T"
     ],
     "words": [
-      "MINA",
-      "MIN",
-      "NAM"
+      "DREPT",
+      "REP",
+      "PER",
+      "DER"
     ],
-    "emoji": "⛏️"
+    "emoji": "⚖️"
+  },
+  {
+    "letters": [
+      "S",
+      "C",
+      "U",
+      "R",
+      "T"
+    ],
+    "words": [
+      "SCURT",
+      "CUR",
+      "SUR",
+      "TUR",
+      "CUS"
+    ],
+    "emoji": "✂️"
   },
   {
     "letters": [
       "C",
       "O",
       "R",
-      "D"
+      "A",
+      "L"
     ],
     "words": [
-      "CORD",
-      "COD",
-      "DOR"
+      "CORAL",
+      "COR",
+      "ORA",
+      "ARC",
+      "LAR"
     ],
-    "emoji": "🎸"
+    "emoji": "🪸"
   },
   {
     "letters": [
+      "S",
+      "O",
       "L",
+      "A",
+      "R"
+    ],
+    "words": [
+      "SOLAR",
+      "SOL",
+      "ORA",
+      "LAR",
+      "SAL"
+    ],
+    "emoji": "☀️"
+  },
+  {
+    "letters": [
+      "M",
+      "O",
+      "R",
+      "A",
+      "L"
+    ],
+    "words": [
+      "MORAL",
+      "MOR",
+      "ORA",
+      "MAR",
+      "LAR"
+    ],
+    "emoji": "⚖️"
+  },
+  {
+    "letters": [
+      "N",
+      "O",
+      "R",
+      "O",
+      "C"
+    ],
+    "words": [
+      "NOROC",
+      "NOR",
+      "COR",
+      "RON",
+      "CON"
+    ],
+    "emoji": "🍀"
+  },
+  {
+    "letters": [
+      "P",
       "I",
+      "R",
+      "A",
+      "T"
+    ],
+    "words": [
+      "PIRAT",
+      "PAR",
+      "TIR",
+      "RAI",
+      "ART"
+    ],
+    "emoji": "🏴‍☠️"
+  },
+  {
+    "letters": [
+      "R",
+      "O",
+      "B",
+      "O",
+      "T"
+    ],
+    "words": [
+      "ROBOT",
+      "ROB",
+      "ROT",
+      "BOT",
+      "TOR"
+    ],
+    "emoji": "🤖"
+  },
+  {
+    "letters": [
+      "R",
+      "O",
+      "M",
+      "A",
+      "N"
+    ],
+    "words": [
+      "ROMAN",
+      "ROM",
+      "NOR",
+      "RAM",
+      "MOR"
+    ],
+    "emoji": "📖"
+  },
+  {
+    "letters": [
+      "V",
+      "A",
+      "P",
+      "O",
+      "R"
+    ],
+    "words": [
+      "VAPOR",
+      "VAR",
+      "PAR",
+      "ORA",
+      "POR"
+    ],
+    "emoji": "🚢"
+  },
+  {
+    "letters": [
+      "V",
+      "I",
+      "R",
+      "U",
+      "S"
+    ],
+    "words": [
+      "VIRUS",
+      "VIS",
+      "SIR",
+      "VIU",
+      "SUR"
+    ],
+    "emoji": "🦠"
+  },
+  {
+    "letters": [
+      "A",
+      "M",
+      "U",
+      "R",
+      "G"
+    ],
+    "words": [
+      "AMURG",
+      "MUR",
+      "RUG",
+      "GUR",
+      "MAR"
+    ],
+    "emoji": "🌅"
+  },
+  {
+    "letters": [
+      "P",
+      "A",
+      "L",
+      "A",
+      "T"
+    ],
+    "words": [
+      "PALAT",
+      "PAL",
+      "PAT",
+      "LAT",
+      "TAL"
+    ],
+    "emoji": "🏰"
+  },
+  {
+    "letters": [
+      "S",
+      "T",
+      "E",
+      "A",
+      "G"
+    ],
+    "words": [
+      "STEAG",
+      "SAT",
+      "SET",
+      "GAS",
+      "AES"
+    ],
+    "emoji": "🏳️"
+  },
+  {
+    "letters": [
+      "U",
+      "M",
+      "B",
       "R",
       "A"
     ],
     "words": [
-      "LIRA",
-      "AIR",
-      "LAR"
+      "UMBRA",
+      "BUR",
+      "RUM",
+      "MAR",
+      "ARM"
     ],
-    "emoji": "🎵"
+    "emoji": "🌑"
+  },
+  {
+    "letters": [
+      "C",
+      "U",
+      "R",
+      "S",
+      "A"
+    ],
+    "words": [
+      "CURSA",
+      "CUR",
+      "ARC",
+      "SAC",
+      "RAS"
+    ],
+    "emoji": "🏁"
+  },
+  {
+    "letters": [
+      "G",
+      "L",
+      "U",
+      "M",
+      "A"
+    ],
+    "words": [
+      "GLUMA",
+      "GUL",
+      "MAL",
+      "LAG",
+      "MUG"
+    ],
+    "emoji": "😂"
+  },
+  {
+    "letters": [
+      "B",
+      "R",
+      "I",
+      "Z",
+      "A"
+    ],
+    "words": [
+      "BRIZA",
+      "BAR",
+      "BIR",
+      "RIZ",
+      "AIR"
+    ],
+    "emoji": "🌬️"
+  },
+  {
+    "letters": [
+      "C",
+      "R",
+      "U",
+      "S",
+      "T"
+    ],
+    "words": [
+      "CRUST",
+      "CUR",
+      "SUR",
+      "TUR",
+      "CUS"
+    ],
+    "emoji": "🍞"
+  },
+  {
+    "letters": [
+      "S",
+      "T",
+      "R",
+      "O",
+      "P"
+    ],
+    "words": [
+      "STROP",
+      "ROT",
+      "TOR",
+      "POR",
+      "TOP"
+    ],
+    "emoji": "💧"
+  },
+  {
+    "letters": [
+      "P",
+      "I",
+      "S",
+      "T",
+      "A"
+    ],
+    "words": [
+      "PISTA",
+      "PAS",
+      "SAT",
+      "TIP",
+      "SPA"
+    ],
+    "emoji": "🛤️"
+  },
+  {
+    "letters": [
+      "M",
+      "E",
+      "R",
+      "I",
+      "T"
+    ],
+    "words": [
+      "MERIT",
+      "MER",
+      "TIR",
+      "MIR",
+      "RIM"
+    ],
+    "emoji": "🌟"
   },
   {
     "letters": [
       "T",
+      "I",
+      "T",
       "A",
-      "R",
-      "E"
+      "N"
     ],
     "words": [
-      "TARE",
-      "ERA",
-      "ART"
+      "TITAN",
+      "TIN",
+      "TAN",
+      "NIT",
+      "ANT"
     ],
     "emoji": "💪"
   },
   {
     "letters": [
       "P",
+      "I",
       "L",
-      "A",
-      "N"
+      "O",
+      "T"
     ],
     "words": [
-      "PLAN",
-      "PAN",
-      "LAN"
+      "PILOT",
+      "PIL",
+      "LOT",
+      "TIP",
+      "POL"
     ],
-    "emoji": "📋"
-  },
-  {
-    "letters": [
-      "F",
-      "I",
-      "R",
-      "M"
-    ],
-    "words": [
-      "FIRM",
-      "FIR",
-      "MIR"
-    ],
-    "emoji": "🏢"
-  },
-  {
-    "letters": [
-      "C",
-      "A",
-      "P",
-      "R"
-    ],
-    "words": [
-      "CRAP",
-      "CAP",
-      "PAR"
-    ],
-    "emoji": "🐟"
-  },
-  {
-    "letters": [
-      "T",
-      "I",
-      "R",
-      "A"
-    ],
-    "words": [
-      "TIRA",
-      "TIR",
-      "ART"
-    ],
-    "emoji": "🚛"
+    "emoji": "✈️"
   },
   {
     "letters": [
       "S",
-      "T",
       "A",
-      "R"
-    ],
-    "words": [
-      "STAR",
-      "SAT",
-      "ART"
-    ],
-    "emoji": "⭐"
-  },
-  {
-    "letters": [
-      "C",
+      "L",
       "O",
-      "R",
       "N"
     ],
     "words": [
-      "CORN",
-      "NOR",
-      "COR"
+      "SALON",
+      "SAL",
+      "SOL",
+      "NAS",
+      "LON"
     ],
-    "emoji": "🌽"
+    "emoji": "💇"
   },
   {
     "letters": [
-      "B",
-      "A",
-      "R",
-      "C"
+      "L",
+      "E",
+      "M",
+      "N",
+      "E"
     ],
     "words": [
-      "BARC",
-      "BAR",
-      "ARC"
+      "LEMNE",
+      "LEM",
+      "MEL",
+      "LEN",
+      "MEN"
     ],
-    "emoji": "⛵"
+    "emoji": "🪵"
+  },
+  {
+    "letters": [
+      "L",
+      "I",
+      "D",
+      "E",
+      "R"
+    ],
+    "words": [
+      "LIDER",
+      "LID",
+      "LED",
+      "RID",
+      "DIL"
+    ],
+    "emoji": "👔"
+  },
+  {
+    "letters": [
+      "O",
+      "C",
+      "E",
+      "A",
+      "N"
+    ],
+    "words": [
+      "OCEAN",
+      "CAN",
+      "CON",
+      "ACE",
+      "NAC"
+    ],
+    "emoji": "🌊"
   },
   {
     "letters": [
       "M",
-      "U",
-      "R",
-      "A"
-    ],
-    "words": [
-      "MURA",
-      "MUR",
-      "RUM"
-    ],
-    "emoji": "🫐"
-  },
-  {
-    "letters": [
-      "F",
-      "A",
-      "R",
-      "N"
-    ],
-    "words": [
-      "FARN",
-      "FAR",
-      "RAN"
-    ],
-    "emoji": "🌿"
-  },
-  {
-    "letters": [
-      "C",
-      "A",
-      "L",
-      "M"
-    ],
-    "words": [
-      "CALM",
-      "CAL",
-      "MAL",
-      "LAC"
-    ],
-    "emoji": "😌"
-  },
-  {
-    "letters": [
-      "S",
-      "A",
-      "R",
-      "E",
-      "C"
-    ],
-    "words": [
-      "SARE",
-      "ARC",
-      "REC",
-      "CER"
-    ],
-    "emoji": "🧊"
-  },
-  {
-    "letters": [
-      "C",
       "O",
       "D",
-      "U",
-      "R"
+      "E",
+      "L"
     ],
     "words": [
-      "COD",
-      "DOR",
-      "CUR",
-      "ROD"
+      "MODEL",
+      "MOD",
+      "DOL",
+      "MED",
+      "ODE"
     ],
-    "emoji": "🌲"
+    "emoji": "👗"
   },
   {
     "letters": [
-      "F",
-      "L",
-      "O",
-      "R",
-      "I"
-    ],
-    "words": [
-      "FLORI",
-      "FIR",
-      "ROI",
-      "FIL"
-    ],
-    "emoji": "🌸"
-  },
-  {
-    "letters": [
-      "T",
-      "U",
-      "R",
       "N",
-      "A"
+      "I",
+      "V",
+      "E",
+      "L"
     ],
     "words": [
-      "TURN",
-      "TUR",
-      "RAN",
-      "NUR"
+      "NIVEL",
+      "NIV",
+      "VIN",
+      "LIN",
+      "VIL"
     ],
-    "emoji": "🏰"
+    "emoji": "📊"
+  },
+  {
+    "letters": [
+      "N",
+      "O",
+      "B",
+      "I",
+      "L"
+    ],
+    "words": [
+      "NOBIL",
+      "NOB",
+      "BOI",
+      "NBI",
+      "LOB"
+    ],
+    "emoji": "👑"
+  },
+  {
+    "letters": [
+      "M",
+      "E",
+      "D",
+      "A",
+      "L"
+    ],
+    "words": [
+      "MEDAL",
+      "MED",
+      "DAM",
+      "MAL",
+      "ALE"
+    ],
+    "emoji": "🏅"
   },
   {
     "letters": [
       "V",
-      "A",
-      "R",
-      "Ă",
-      "S"
+      "E",
+      "N",
+      "I",
+      "T"
     ],
     "words": [
-      "VARĂ",
-      "VAR",
-      "RAS",
-      "SAR"
+      "VENIT",
+      "VIN",
+      "TIN",
+      "NIT",
+      "NET"
     ],
-    "emoji": "☀️"
+    "emoji": "💰"
   },
   {
     "letters": [
       "P",
-      "I",
-      "A",
-      "T",
-      "Ă"
-    ],
-    "words": [
-      "PATĂ",
-      "PAT",
-      "TIP",
-      "APĂ"
-    ],
-    "emoji": "🎨"
-  },
-  {
-    "letters": [
-      "C",
-      "A",
-      "R",
-      "T",
-      "E"
-    ],
-    "words": [
-      "CART",
-      "ARC",
-      "CAR",
-      "ART"
-    ],
-    "emoji": "📖"
-  },
-  {
-    "letters": [
-      "B",
-      "A",
-      "R",
-      "C",
-      "Ă"
-    ],
-    "words": [
-      "BARCĂ",
-      "BAR",
-      "ARC",
-      "CAR"
-    ],
-    "emoji": "⛵"
-  },
-  {
-    "letters": [
-      "M",
       "U",
       "N",
-      "T",
-      "E"
+      "C",
+      "T"
     ],
     "words": [
-      "MUNTE",
-      "NUT",
-      "MUT",
+      "PUNCT",
+      "PUN",
+      "NUC",
+      "CUP",
       "TUN"
     ],
-    "emoji": "⛰️"
+    "emoji": "📍"
   },
   {
     "letters": [
-      "S",
+      "C",
+      "R",
+      "E",
+      "M",
+      "A"
+    ],
+    "words": [
+      "CREMA",
+      "CER",
+      "REM",
+      "ARC",
+      "ERA"
+    ],
+    "emoji": "🍦"
+  },
+  {
+    "letters": [
       "C",
       "A",
+      "D",
       "R",
-      "Ă"
+      "U"
     ],
     "words": [
-      "SCARĂ",
-      "SAC",
+      "CADRU",
+      "CAR",
       "ARC",
-      "RAS"
+      "DUR",
+      "CUR"
     ],
-    "emoji": "🪜"
+    "emoji": "🖼️"
   },
   {
     "letters": [
-      "P",
-      "A",
       "L",
+      "A",
       "M",
-      "Ă"
+      "P",
+      "A"
     ],
     "words": [
-      "PALMĂ",
+      "LAMPA",
+      "LAP",
       "PAL",
       "MAL",
-      "LAP"
-    ],
-    "emoji": "🖐️"
-  },
-  {
-    "letters": [
-      "C",
-      "R",
-      "U",
-      "C",
-      "E"
-    ],
-    "words": [
-      "CRUCE",
-      "CUR",
-      "REC",
-      "CRU"
-    ],
-    "emoji": "✝️"
-  },
-  {
-    "letters": [
-      "N",
-      "O",
-      "R",
-      "I",
-      "C"
-    ],
-    "words": [
-      "NORI",
-      "NOR",
-      "ROI",
-      "ION"
-    ],
-    "emoji": "☁️"
-  },
-  {
-    "letters": [
-      "M",
-      "A",
-      "S",
-      "C",
-      "Ă"
-    ],
-    "words": [
-      "MASCĂ",
-      "SAC",
-      "MAC",
-      "CAS"
-    ],
-    "emoji": "🎭"
-  },
-  {
-    "letters": [
-      "L",
-      "U",
-      "M",
-      "I",
-      "N"
-    ],
-    "words": [
-      "LUMI",
-      "MUL",
-      "NUL",
-      "LIN"
+      "MAP"
     ],
     "emoji": "💡"
   },
   {
     "letters": [
-      "P",
-      "O",
-      "R",
-      "C",
-      "I"
+      "F",
+      "L",
+      "U",
+      "T",
+      "U",
+      "R"
     ],
     "words": [
-      "PORCI",
-      "POR",
-      "COP",
-      "RIP"
+      "FLUTUR",
+      "FUR",
+      "TUR",
+      "RUF",
+      "LUT",
+      "FUL"
     ],
-    "emoji": "🐷"
+    "emoji": "🦋"
+  },
+  {
+    "letters": [
+      "F",
+      "U",
+      "L",
+      "G",
+      "E",
+      "R"
+    ],
+    "words": [
+      "FULGER",
+      "FUR",
+      "GEL",
+      "RUG",
+      "FUG",
+      "LEG"
+    ],
+    "emoji": "⚡"
+  },
+  {
+    "letters": [
+      "V",
+      "U",
+      "L",
+      "C",
+      "A",
+      "N"
+    ],
+    "words": [
+      "VULCAN",
+      "VAL",
+      "CAN",
+      "NUC",
+      "LAC",
+      "VAN"
+    ],
+    "emoji": "🌋"
+  },
+  {
+    "letters": [
+      "V",
+      "U",
+      "L",
+      "T",
+      "U",
+      "R"
+    ],
+    "words": [
+      "VULTUR",
+      "TUR",
+      "VUL",
+      "RUT",
+      "LUT",
+      "TUL"
+    ],
+    "emoji": "🦅"
+  },
+  {
+    "letters": [
+      "P",
+      "A",
+      "L",
+      "T",
+      "O",
+      "N"
+    ],
+    "words": [
+      "PALTON",
+      "PAL",
+      "TON",
+      "POT",
+      "NOT",
+      "LOT"
+    ],
+    "emoji": "🧥"
+  },
+  {
+    "letters": [
+      "D",
+      "R",
+      "A",
+      "G",
+      "O",
+      "N"
+    ],
+    "words": [
+      "DRAGON",
+      "DAR",
+      "ROD",
+      "NOR",
+      "RAG",
+      "DON"
+    ],
+    "emoji": "🐉"
+  },
+  {
+    "letters": [
+      "S",
+      "U",
+      "L",
+      "T",
+      "A",
+      "N"
+    ],
+    "words": [
+      "SULTAN",
+      "SAL",
+      "NUT",
+      "TUN",
+      "SAT",
+      "LAN"
+    ],
+    "emoji": "👳"
+  },
+  {
+    "letters": [
+      "G",
+      "A",
+      "L",
+      "B",
+      "E",
+      "N"
+    ],
+    "words": [
+      "GALBEN",
+      "GEL",
+      "BAN",
+      "LAG",
+      "GAL",
+      "BEL"
+    ],
+    "emoji": "🟡"
   },
   {
     "letters": [
       "T",
+      "U",
       "R",
-      "A",
       "I",
-      "N"
-    ],
-    "words": [
-      "TRAI",
-      "TIR",
-      "ART",
-      "RAN"
-    ],
-    "emoji": "🚂"
-  },
-  {
-    "letters": [
-      "C",
-      "O",
-      "A",
       "S",
       "T"
     ],
     "words": [
-      "COST",
-      "COS",
-      "SAT",
-      "SOC"
+      "TURIST",
+      "TIR",
+      "TUR",
+      "SIR",
+      "TIS",
+      "RUS"
+    ],
+    "emoji": "🧳"
+  },
+  {
+    "letters": [
+      "P",
+      "A",
+      "T",
+      "R",
+      "O",
+      "N"
+    ],
+    "words": [
+      "PATRON",
+      "PAR",
+      "ROT",
+      "TOR",
+      "NOR",
+      "POT"
+    ],
+    "emoji": "👔"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "R",
+      "T",
+      "O",
+      "N"
+    ],
+    "words": [
+      "CARTON",
+      "CAR",
+      "ARC",
+      "ROT",
+      "TOR",
+      "NOT"
+    ],
+    "emoji": "📦"
+  },
+  {
+    "letters": [
+      "J",
+      "U",
+      "R",
+      "N",
+      "A",
+      "L"
+    ],
+    "words": [
+      "JURNAL",
+      "NUR",
+      "RAN",
+      "LAN",
+      "JAR",
+      "NAR"
+    ],
+    "emoji": "📓"
+  },
+  {
+    "letters": [
+      "P",
+      "I",
+      "C",
+      "A",
+      "N",
+      "T"
+    ],
+    "words": [
+      "PICANT",
+      "PIC",
+      "TIN",
+      "CAN",
+      "PAN",
+      "NIT"
+    ],
+    "emoji": "🌶️"
+  },
+  {
+    "letters": [
+      "S",
+      "I",
+      "G",
+      "N",
+      "A",
+      "L"
+    ],
+    "words": [
+      "SIGNAL",
+      "SIG",
+      "GAS",
+      "NAS",
+      "SAL",
+      "LIN"
+    ],
+    "emoji": "📡"
+  },
+  {
+    "letters": [
+      "S",
+      "I",
+      "M",
+      "B",
+      "O",
+      "L"
+    ],
+    "words": [
+      "SIMBOL",
+      "SIM",
+      "BOL",
+      "SOL",
+      "MIS",
+      "BIS"
+    ],
+    "emoji": "🔣"
+  },
+  {
+    "letters": [
+      "C",
+      "I",
+      "M",
+      "E",
+      "N",
+      "T"
+    ],
+    "words": [
+      "CIMENT",
+      "CIM",
+      "TIN",
+      "MIC",
+      "NIT",
+      "MEN"
+    ],
+    "emoji": "🧱"
+  },
+  {
+    "letters": [
+      "P",
+      "L",
+      "A",
+      "N",
+      "E",
+      "T"
+    ],
+    "words": [
+      "PLANET",
+      "PAN",
+      "PAL",
+      "LAN",
+      "NET",
+      "PEN"
+    ],
+    "emoji": "🪐"
+  },
+  {
+    "letters": [
+      "T",
+      "O",
+      "A",
+      "M",
+      "N",
+      "A"
+    ],
+    "words": [
+      "TOAMNA",
+      "TON",
+      "MAN",
+      "MAT",
+      "NOT",
+      "TAN"
+    ],
+    "emoji": "🍂"
+  },
+  {
+    "letters": [
+      "B",
+      "A",
+      "L",
+      "C",
+      "O",
+      "N"
+    ],
+    "words": [
+      "BALCON",
+      "BAN",
+      "CAL",
+      "COL",
+      "LOB",
+      "LAC"
+    ],
+    "emoji": "🏠"
+  },
+  {
+    "letters": [
+      "R",
+      "E",
+      "C",
+      "O",
+      "R",
+      "D"
+    ],
+    "words": [
+      "RECORD",
+      "REC",
+      "COR",
+      "COD",
+      "DOR",
+      "ROD"
+    ],
+    "emoji": "🏆"
+  },
+  {
+    "letters": [
+      "R",
+      "E",
+      "S",
+      "O",
+      "R",
+      "T"
+    ],
+    "words": [
+      "RESORT",
+      "RES",
+      "SET",
+      "ROT",
+      "TOR",
+      "SOR"
     ],
     "emoji": "🏖️"
   },
   {
     "letters": [
-      "F",
-      "R",
-      "U",
       "N",
-      "T"
-    ],
-    "words": [
-      "FRUN",
-      "FUR",
-      "TUR",
-      "NUR"
-    ],
-    "emoji": "😤"
-  },
-  {
-    "letters": [
-      "M",
-      "I",
-      "N",
-      "T",
-      "E"
-    ],
-    "words": [
-      "MINTE",
-      "MIN",
-      "TIN",
-      "NIT",
-      "MET"
-    ],
-    "emoji": "🧠"
-  },
-  {
-    "letters": [
-      "S",
-      "T",
       "E",
-      "L",
-      "A"
-    ],
-    "words": [
-      "STEA",
-      "SAT",
-      "LES",
-      "SET",
-      "ALE"
-    ],
-    "emoji": "⭐"
-  },
-  {
-    "letters": [
-      "B",
-      "O",
-      "R",
-      "Ă",
-      "S"
-    ],
-    "words": [
-      "BORS",
-      "BOR",
-      "ROB",
-      "ORĂ",
-      "SOB"
-    ],
-    "emoji": "🍲"
-  },
-  {
-    "letters": [
-      "F",
-      "I",
-      "R",
-      "Ă",
-      "M"
-    ],
-    "words": [
-      "FIRMĂ",
-      "FIR",
-      "RIM",
-      "MIR",
-      "RĂM"
-    ],
-    "emoji": "🧶"
-  },
-  {
-    "letters": [
       "C",
-      "A",
-      "R",
-      "N",
-      "E"
-    ],
-    "words": [
-      "CARNE",
-      "CAR",
-      "ARC",
-      "RAN",
-      "CER"
-    ],
-    "emoji": "🥩"
-  },
-  {
-    "letters": [
-      "M",
-      "O",
-      "R",
+      "T",
       "A",
       "R"
     ],
     "words": [
-      "MORAR",
-      "MOR",
-      "ORA",
-      "RAM",
-      "MAR"
+      "NECTAR",
+      "NET",
+      "CER",
+      "ARC",
+      "RAN",
+      "TAN"
     ],
-    "emoji": "🏭"
+    "emoji": "🍯"
+  },
+  {
+    "letters": [
+      "N",
+      "O",
+      "R",
+      "M",
+      "A",
+      "L"
+    ],
+    "words": [
+      "NORMAL",
+      "NOR",
+      "ROM",
+      "MAR",
+      "LAR",
+      "MOR"
+    ],
+    "emoji": "📏"
   },
   {
     "letters": [
       "P",
       "O",
-      "A",
       "R",
-      "T"
+      "T",
+      "A",
+      "L"
     ],
     "words": [
+      "PORTAL",
       "PORT",
       "ORA",
       "ROT",
-      "PAR",
-      "TOR"
+      "TOR",
+      "PAL"
     ],
     "emoji": "🚪"
   },
   {
     "letters": [
-      "P",
-      "I",
+      "S",
       "A",
-      "T",
+      "F",
+      "A",
       "R",
-      "Ă"
+      "I"
     ],
     "words": [
-      "PIATRĂ",
-      "PAT",
-      "TIP",
-      "PAR",
-      "ART",
-      "APĂ"
+      "SAFARI",
+      "SAR",
+      "FAR",
+      "FIR",
+      "AIR",
+      "RAS"
     ],
-    "emoji": "🪨"
+    "emoji": "🦁"
   },
   {
     "letters": [
+      "U",
+      "R",
       "G",
+      "E",
+      "N",
+      "T"
+    ],
+    "words": [
+      "URGENT",
+      "RUG",
+      "GUR",
+      "NUR",
+      "TUR",
+      "NET"
+    ],
+    "emoji": "🚨"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "M",
+      "P",
+      "I",
+      "O",
+      "N"
+    ],
+    "words": [
+      "CAMPION",
+      "CAP",
+      "MAC",
+      "PAN",
+      "ION",
+      "COP",
+      "MIN"
+    ],
+    "emoji": "🏆"
+  },
+  {
+    "letters": [
+      "C",
+      "R",
+      "I",
+      "S",
+      "T",
+      "A",
+      "L"
+    ],
+    "words": [
+      "CRISTAL",
+      "CAR",
+      "ART",
+      "SAT",
+      "TIR",
+      "SIR",
+      "LAT"
+    ],
+    "emoji": "💎"
+  },
+  {
+    "letters": [
+      "E",
+      "L",
+      "E",
+      "F",
+      "A",
+      "N",
+      "T"
+    ],
+    "words": [
+      "ELEFANT",
+      "NET",
+      "FEL",
+      "TAN",
+      "LAN",
+      "FEN",
+      "ANT"
+    ],
+    "emoji": "🐘"
+  },
+  {
+    "letters": [
+      "M",
+      "I",
+      "N",
+      "E",
       "R",
       "A",
-      "D",
+      "L"
+    ],
+    "words": [
+      "MINERAL",
+      "MIN",
+      "MER",
+      "RAN",
+      "LIN",
+      "AIR",
+      "ERA"
+    ],
+    "emoji": "💎"
+  },
+  {
+    "letters": [
+      "M",
+      "I",
+      "R",
+      "A",
+      "C",
+      "O",
+      "L"
+    ],
+    "words": [
+      "MIRACOL",
+      "MIR",
+      "ARC",
+      "ORA",
+      "CAR",
+      "MAI",
+      "ROI"
+    ],
+    "emoji": "✨"
+  },
+  {
+    "letters": [
+      "P",
+      "A",
+      "L",
+      "M",
+      "I",
+      "E",
+      "R"
+    ],
+    "words": [
+      "PALMIER",
+      "PAL",
+      "MAL",
+      "MIR",
+      "AIR",
+      "RIM",
+      "LIP"
+    ],
+    "emoji": "🌴"
+  },
+  {
+    "letters": [
+      "A",
+      "C",
+      "R",
+      "O",
+      "B",
+      "A",
+      "T"
+    ],
+    "words": [
+      "ACROBAT",
+      "ARC",
+      "CAR",
+      "BAR",
+      "ROT",
+      "BOT",
+      "RAC"
+    ],
+    "emoji": "🤸"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "S",
+      "T",
+      "R",
+      "O",
+      "N"
+    ],
+    "words": [
+      "CASTRON",
+      "CAR",
+      "SAT",
+      "NOR",
+      "TOR",
+      "ROT",
+      "COS"
+    ],
+    "emoji": "🥣"
+  },
+  {
+    "letters": [
+      "M",
+      "A",
+      "G",
+      "A",
+      "Z",
       "I",
       "N"
     ],
     "words": [
-      "GRAD",
-      "DRAG",
-      "RAN",
-      "RID",
-      "NAR",
-      "DIN"
+      "MAGAZIN",
+      "MAG",
+      "GAS",
+      "ZAR",
+      "MAI",
+      "NAG",
+      "MAN"
     ],
-    "emoji": "🌻"
-  },
-  {
-    "letters": [
-      "P",
-      "Ă",
-      "D",
-      "U",
-      "R",
-      "E"
-    ],
-    "words": [
-      "PĂDURE",
-      "PĂR",
-      "DUR",
-      "RUP",
-      "PUR",
-      "RED"
-    ],
-    "emoji": "🌲"
+    "emoji": "🏪"
   },
   {
     "letters": [
       "C",
-      "Ă",
-      "R",
       "A",
-      "R",
-      "E"
-    ],
-    "words": [
-      "CĂRARE",
-      "CAR",
-      "ARC",
-      "ERA",
-      "REC",
-      "RARE"
-    ],
-    "emoji": "🛤️"
-  },
-  {
-    "letters": [
-      "L",
-      "U",
-      "M",
+      "P",
       "I",
-      "N",
-      "Ă"
-    ],
-    "words": [
-      "LUMINĂ",
-      "LIN",
-      "MUL",
-      "NUL",
-      "NIM",
-      "MIL"
-    ],
-    "emoji": "🕯️"
-  },
-  {
-    "letters": [
-      "M",
-      "Ă",
-      "S",
-      "L",
-      "I",
-      "N",
-      "Ă"
-    ],
-    "words": [
-      "MĂSLINĂ",
-      "MĂS",
-      "LIN",
-      "NIS",
-      "MINĂ",
-      "SĂL"
-    ],
-    "emoji": "🫒"
-  },
-  {
-    "letters": [
-      "C",
-      "Ă",
-      "L",
-      "Ă",
       "T",
       "O",
-      "R"
+      "L"
     ],
     "words": [
-      "CĂLĂTOR",
-      "CĂT",
-      "TOR",
-      "ROT",
+      "CAPITOL",
+      "CAP",
+      "PIC",
+      "TIP",
       "LOT",
-      "OLT"
+      "POT",
+      "COL"
     ],
-    "emoji": "🧳"
+    "emoji": "📖"
   },
   {
     "letters": [
@@ -1197,8 +2671,5435 @@
       "RAS",
       "ARS",
       "SET",
-      "ERA"
+      "ERA",
+      "ART"
     ],
     "emoji": "🪟"
+  },
+  {
+    "letters": [
+      "C",
+      "Ă",
+      "L",
+      "Ă",
+      "T",
+      "O",
+      "R"
+    ],
+    "words": [
+      "CĂLĂTOR",
+      "CĂT",
+      "TOR",
+      "ROT",
+      "LOT",
+      "OLT",
+      "CAL"
+    ],
+    "emoji": "🧳"
+  },
+  {
+    "letters": [
+      "D",
+      "O",
+      "I"
+    ],
+    "words": [
+      "DOI",
+      "OID"
+    ],
+    "emoji": "✌️"
+  },
+  {
+    "letters": [
+      "V",
+      "O",
+      "I"
+    ],
+    "words": [
+      "VOI",
+      "OVI"
+    ],
+    "emoji": "👆"
+  },
+  {
+    "letters": [
+      "P",
+      "O",
+      "M"
+    ],
+    "words": [
+      "POM",
+      "MOP"
+    ],
+    "emoji": "🌳"
+  },
+  {
+    "letters": [
+      "L",
+      "O",
+      "C"
+    ],
+    "words": [
+      "LOC",
+      "COL"
+    ],
+    "emoji": "📍"
+  },
+  {
+    "letters": [
+      "J",
+      "O",
+      "C"
+    ],
+    "words": [
+      "JOC",
+      "COJ"
+    ],
+    "emoji": "🎮"
+  },
+  {
+    "letters": [
+      "F",
+      "O",
+      "C"
+    ],
+    "words": [
+      "FOC",
+      "COF"
+    ],
+    "emoji": "🔥"
+  },
+  {
+    "letters": [
+      "F",
+      "I",
+      "L"
+    ],
+    "words": [
+      "FIL",
+      "LIF"
+    ],
+    "emoji": "📄"
+  },
+  {
+    "letters": [
+      "V",
+      "I",
+      "S"
+    ],
+    "words": [
+      "VIS",
+      "SIV"
+    ],
+    "emoji": "💭"
+  },
+  {
+    "letters": [
+      "P",
+      "I",
+      "C"
+    ],
+    "words": [
+      "PIC",
+      "CIP"
+    ],
+    "emoji": "🎨"
+  },
+  {
+    "letters": [
+      "R",
+      "O",
+      "T"
+    ],
+    "words": [
+      "ROT",
+      "TOR"
+    ],
+    "emoji": "🔄"
+  },
+  {
+    "letters": [
+      "N",
+      "A",
+      "S"
+    ],
+    "words": [
+      "NAS",
+      "SAN"
+    ],
+    "emoji": "👃"
+  },
+  {
+    "letters": [
+      "M",
+      "A",
+      "T"
+    ],
+    "words": [
+      "MAT",
+      "TAM"
+    ],
+    "emoji": "🧮"
+  },
+  {
+    "letters": [
+      "L",
+      "A",
+      "T"
+    ],
+    "words": [
+      "LAT",
+      "TAL"
+    ],
+    "emoji": "📏"
+  },
+  {
+    "letters": [
+      "R",
+      "A",
+      "T"
+    ],
+    "words": [
+      "RAT",
+      "TAR"
+    ],
+    "emoji": "🐀"
+  },
+  {
+    "letters": [
+      "S",
+      "A",
+      "T"
+    ],
+    "words": [
+      "SAT",
+      "TAS"
+    ],
+    "emoji": "🏘️"
+  },
+  {
+    "letters": [
+      "P",
+      "A",
+      "T"
+    ],
+    "words": [
+      "PAT",
+      "TAP"
+    ],
+    "emoji": "🛏️"
+  },
+  {
+    "letters": [
+      "P",
+      "O",
+      "D"
+    ],
+    "words": [
+      "POD",
+      "DOP"
+    ],
+    "emoji": "🌉"
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "P"
+    ],
+    "words": [
+      "COP",
+      "POC"
+    ],
+    "emoji": "🌳"
+  },
+  {
+    "letters": [
+      "S",
+      "U",
+      "S"
+    ],
+    "words": [
+      "SUS",
+      "USS"
+    ],
+    "emoji": "⬆️"
+  },
+  {
+    "letters": [
+      "R",
+      "A",
+      "N"
+    ],
+    "words": [
+      "RAN",
+      "NAR"
+    ],
+    "emoji": "🏃"
+  },
+  {
+    "letters": [
+      "V",
+      "A",
+      "N"
+    ],
+    "words": [
+      "VAN",
+      "NAV"
+    ],
+    "emoji": "🚐"
+  },
+  {
+    "letters": [
+      "P",
+      "A",
+      "N"
+    ],
+    "words": [
+      "PAN",
+      "NAP"
+    ],
+    "emoji": "🍳"
+  },
+  {
+    "letters": [
+      "D",
+      "A",
+      "N"
+    ],
+    "words": [
+      "DAN",
+      "NAD"
+    ],
+    "emoji": "👤"
+  },
+  {
+    "letters": [
+      "B",
+      "A",
+      "N"
+    ],
+    "words": [
+      "BAN",
+      "NAB"
+    ],
+    "emoji": "💰"
+  },
+  {
+    "letters": [
+      "F",
+      "A",
+      "R"
+    ],
+    "words": [
+      "FAR",
+      "RAF"
+    ],
+    "emoji": "💡"
+  },
+  {
+    "letters": [
+      "S",
+      "E",
+      "C"
+    ],
+    "words": [
+      "SEC",
+      "CES"
+    ],
+    "emoji": "🏜️"
+  },
+  {
+    "letters": [
+      "L",
+      "I",
+      "N"
+    ],
+    "words": [
+      "LIN",
+      "NIL"
+    ],
+    "emoji": "🧵"
+  },
+  {
+    "letters": [
+      "D",
+      "O",
+      "R"
+    ],
+    "words": [
+      "DOR",
+      "ROD"
+    ],
+    "emoji": "❤️"
+  },
+  {
+    "letters": [
+      "S",
+      "I",
+      "T"
+    ],
+    "words": [
+      "SIT",
+      "TIS"
+    ],
+    "emoji": "💺"
+  },
+  {
+    "letters": [
+      "M",
+      "O",
+      "D"
+    ],
+    "words": [
+      "MOD",
+      "DOM"
+    ],
+    "emoji": "🎨"
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "D"
+    ],
+    "words": [
+      "COD",
+      "DOC"
+    ],
+    "emoji": "📝"
+  },
+  {
+    "letters": [
+      "L",
+      "O",
+      "B"
+    ],
+    "words": [
+      "LOB",
+      "BOL"
+    ],
+    "emoji": "🏐"
+  },
+  {
+    "letters": [
+      "D",
+      "O",
+      "N"
+    ],
+    "words": [
+      "DON",
+      "NOD"
+    ],
+    "emoji": "🎩"
+  },
+  {
+    "letters": [
+      "T",
+      "O",
+      "N"
+    ],
+    "words": [
+      "TON",
+      "NOT"
+    ],
+    "emoji": "🎵"
+  },
+  {
+    "letters": [
+      "P",
+      "O",
+      "T"
+    ],
+    "words": [
+      "POT",
+      "TOP"
+    ],
+    "emoji": "🫕"
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "N"
+    ],
+    "words": [
+      "CON",
+      "NOC"
+    ],
+    "emoji": "🔗"
+  },
+  {
+    "letters": [
+      "D",
+      "O",
+      "S"
+    ],
+    "words": [
+      "DOS",
+      "SOD"
+    ],
+    "emoji": "📚"
+  },
+  {
+    "letters": [
+      "G",
+      "O",
+      "L"
+    ],
+    "words": [
+      "GOL",
+      "LOG"
+    ],
+    "emoji": "⚽"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "N"
+    ],
+    "words": [
+      "CAN",
+      "NAC"
+    ],
+    "emoji": "🫙"
+  },
+  {
+    "letters": [
+      "G",
+      "A",
+      "S"
+    ],
+    "words": [
+      "GAS",
+      "SAG"
+    ],
+    "emoji": "⛽"
+  },
+  {
+    "letters": [
+      "F",
+      "L",
+      "U",
+      "X"
+    ],
+    "words": [
+      "FLUX",
+      "FUL",
+      "LUF"
+    ],
+    "emoji": "🌊"
+  },
+  {
+    "letters": [
+      "P",
+      "L",
+      "U",
+      "G"
+    ],
+    "words": [
+      "PLUG",
+      "PUL",
+      "LUP",
+      "GUL"
+    ],
+    "emoji": "🔌"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "U",
+      "T"
+    ],
+    "words": [
+      "CAUT",
+      "CAT",
+      "ACT",
+      "CUT"
+    ],
+    "emoji": "🔍"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "S",
+      "T"
+    ],
+    "words": [
+      "CAST",
+      "CAS",
+      "SAT",
+      "SAC"
+    ],
+    "emoji": "🏰"
+  },
+  {
+    "letters": [
+      "F",
+      "A",
+      "R",
+      "M"
+    ],
+    "words": [
+      "FARM",
+      "FAR",
+      "RAM",
+      "MAR"
+    ],
+    "emoji": "🌾"
+  },
+  {
+    "letters": [
+      "F",
+      "A",
+      "S",
+      "T"
+    ],
+    "words": [
+      "FAST",
+      "FAR",
+      "SAT",
+      "FAS"
+    ],
+    "emoji": "⚡"
+  },
+  {
+    "letters": [
+      "L",
+      "A",
+      "S",
+      "T"
+    ],
+    "words": [
+      "LAST",
+      "LAS",
+      "SAL",
+      "SAT"
+    ],
+    "emoji": "🔚"
+  },
+  {
+    "letters": [
+      "G",
+      "R",
+      "A",
+      "D"
+    ],
+    "words": [
+      "GRAD",
+      "DAR",
+      "RAG",
+      "GAR"
+    ],
+    "emoji": "🎓"
+  },
+  {
+    "letters": [
+      "P",
+      "O",
+      "R",
+      "C"
+    ],
+    "words": [
+      "PORC",
+      "POR",
+      "COP",
+      "COR"
+    ],
+    "emoji": "🐷"
+  },
+  {
+    "letters": [
+      "T",
+      "O",
+      "R",
+      "S"
+    ],
+    "words": [
+      "TORS",
+      "TOR",
+      "ROT",
+      "SOR"
+    ],
+    "emoji": "🔄"
+  },
+  {
+    "letters": [
+      "F",
+      "O",
+      "R",
+      "D"
+    ],
+    "words": [
+      "FORD",
+      "FOR",
+      "ROD",
+      "DOR"
+    ],
+    "emoji": "🚗"
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "R",
+      "B"
+    ],
+    "words": [
+      "CORB",
+      "COR",
+      "ROB",
+      "BOR"
+    ],
+    "emoji": "🐦‍⬛"
+  },
+  {
+    "letters": [
+      "M",
+      "A",
+      "R",
+      "T"
+    ],
+    "words": [
+      "MART",
+      "MAR",
+      "RAM",
+      "ART"
+    ],
+    "emoji": "🏪"
+  },
+  {
+    "letters": [
+      "S",
+      "I",
+      "L",
+      "A"
+    ],
+    "words": [
+      "SILA",
+      "SIL",
+      "LIS",
+      "ALI"
+    ],
+    "emoji": "😰"
+  },
+  {
+    "letters": [
+      "V",
+      "I",
+      "O",
+      "L"
+    ],
+    "words": [
+      "VIOL",
+      "VIL",
+      "LOI",
+      "OIL"
+    ],
+    "emoji": "🎻"
+  },
+  {
+    "letters": [
+      "B",
+      "O",
+      "L",
+      "T"
+    ],
+    "words": [
+      "BOLT",
+      "BOL",
+      "LOT",
+      "LOB"
+    ],
+    "emoji": "🔩"
+  },
+  {
+    "letters": [
+      "G",
+      "O",
+      "L",
+      "F"
+    ],
+    "words": [
+      "GOLF",
+      "GOL",
+      "FOL",
+      "LOG"
+    ],
+    "emoji": "⛳"
+  },
+  {
+    "letters": [
+      "D",
+      "U",
+      "L",
+      "C"
+    ],
+    "words": [
+      "DULC",
+      "DUL",
+      "CUL",
+      "LUC"
+    ],
+    "emoji": "🍬"
+  },
+  {
+    "letters": [
+      "F",
+      "I",
+      "O",
+      "R"
+    ],
+    "words": [
+      "FIOR",
+      "FIR",
+      "ROI",
+      "ORI"
+    ],
+    "emoji": "🥶"
+  },
+  {
+    "letters": [
+      "G",
+      "R",
+      "E",
+      "U"
+    ],
+    "words": [
+      "GREU",
+      "GRE",
+      "RUG",
+      "ERG"
+    ],
+    "emoji": "🏋️"
+  },
+  {
+    "letters": [
+      "M",
+      "I",
+      "N",
+      "T"
+    ],
+    "words": [
+      "MINT",
+      "MIN",
+      "TIN",
+      "NIT"
+    ],
+    "emoji": "🍃"
+  },
+  {
+    "letters": [
+      "L",
+      "U",
+      "P",
+      "T"
+    ],
+    "words": [
+      "LUPT",
+      "LUP",
+      "PUL",
+      "TUL"
+    ],
+    "emoji": "⚔️"
+  },
+  {
+    "letters": [
+      "T",
+      "R",
+      "E",
+      "I"
+    ],
+    "words": [
+      "TREI",
+      "TIR",
+      "RET",
+      "IRE"
+    ],
+    "emoji": "3️⃣"
+  },
+  {
+    "letters": [
+      "V",
+      "A",
+      "R",
+      "A"
+    ],
+    "words": [
+      "VARA",
+      "VAR",
+      "RAV",
+      "AVR"
+    ],
+    "emoji": "☀️"
+  },
+  {
+    "letters": [
+      "Z",
+      "A",
+      "R",
+      "E"
+    ],
+    "words": [
+      "ZARE",
+      "ZAR",
+      "ERA",
+      "RAZ"
+    ],
+    "emoji": "🌅"
+  },
+  {
+    "letters": [
+      "L",
+      "U",
+      "N",
+      "G"
+    ],
+    "words": [
+      "LUNG",
+      "LUN",
+      "NUL",
+      "GUL"
+    ],
+    "emoji": "📏"
+  },
+  {
+    "letters": [
+      "S",
+      "A",
+      "R",
+      "M"
+    ],
+    "words": [
+      "SARM",
+      "SAR",
+      "RAM",
+      "MAR"
+    ],
+    "emoji": "🍽️"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "R",
+      "P"
+    ],
+    "words": [
+      "CARP",
+      "CAR",
+      "PAR",
+      "ARC"
+    ],
+    "emoji": "🐟"
+  },
+  {
+    "letters": [
+      "G",
+      "R",
+      "A",
+      "N"
+    ],
+    "words": [
+      "GRAN",
+      "RAN",
+      "NAR",
+      "GAR"
+    ],
+    "emoji": "🌾"
+  },
+  {
+    "letters": [
+      "S",
+      "P",
+      "I",
+      "N"
+    ],
+    "words": [
+      "SPIN",
+      "PIN",
+      "SIP",
+      "NIS"
+    ],
+    "emoji": "🕷️"
+  },
+  {
+    "letters": [
+      "M",
+      "I",
+      "R",
+      "T"
+    ],
+    "words": [
+      "MIRT",
+      "MIR",
+      "TIR",
+      "RIM"
+    ],
+    "emoji": "🌿"
+  },
+  {
+    "letters": [
+      "M",
+      "A",
+      "R",
+      "C"
+    ],
+    "words": [
+      "MARC",
+      "MAR",
+      "ARC",
+      "CAR"
+    ],
+    "emoji": "📩"
+  },
+  {
+    "letters": [
+      "L",
+      "I",
+      "S",
+      "T"
+    ],
+    "words": [
+      "LIST",
+      "LIS",
+      "SIT",
+      "TIS"
+    ],
+    "emoji": "📋"
+  },
+  {
+    "letters": [
+      "N",
+      "U",
+      "L",
+      "A"
+    ],
+    "words": [
+      "NULA",
+      "NUL",
+      "LAN",
+      "UNA"
+    ],
+    "emoji": "0️⃣"
+  },
+  {
+    "letters": [
+      "T",
+      "R",
+      "A",
+      "S"
+    ],
+    "words": [
+      "TRAS",
+      "RAS",
+      "SAR",
+      "ART"
+    ],
+    "emoji": "🎯"
+  },
+  {
+    "letters": [
+      "G",
+      "R",
+      "I",
+      "L"
+    ],
+    "words": [
+      "GRIL",
+      "GRI",
+      "RIG",
+      "LIR"
+    ],
+    "emoji": "🔥"
+  },
+  {
+    "letters": [
+      "P",
+      "L",
+      "A",
+      "C"
+    ],
+    "words": [
+      "PLAC",
+      "PAL",
+      "LAC",
+      "CAL"
+    ],
+    "emoji": "😊"
+  },
+  {
+    "letters": [
+      "B",
+      "A",
+      "L",
+      "T"
+    ],
+    "words": [
+      "BALT",
+      "BAL",
+      "LAT",
+      "TAL"
+    ],
+    "emoji": "💧"
+  },
+  {
+    "letters": [
+      "M",
+      "A",
+      "L",
+      "T"
+    ],
+    "words": [
+      "MALT",
+      "MAL",
+      "LAT",
+      "MAT"
+    ],
+    "emoji": "🍺"
+  },
+  {
+    "letters": [
+      "S",
+      "O",
+      "R",
+      "B"
+    ],
+    "words": [
+      "SORB",
+      "SOR",
+      "ROB",
+      "BOR"
+    ],
+    "emoji": "🍹"
+  },
+  {
+    "letters": [
+      "D",
+      "O",
+      "R",
+      "N"
+    ],
+    "words": [
+      "DORN",
+      "DOR",
+      "NOR",
+      "ROD"
+    ],
+    "emoji": "🌹"
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "L",
+      "T"
+    ],
+    "words": [
+      "COLT",
+      "COL",
+      "LOT",
+      "TOL"
+    ],
+    "emoji": "🔫"
+  },
+  {
+    "letters": [
+      "V",
+      "O",
+      "L",
+      "T"
+    ],
+    "words": [
+      "VOLT",
+      "VOL",
+      "LOT",
+      "TOL"
+    ],
+    "emoji": "⚡"
+  },
+  {
+    "letters": [
+      "S",
+      "C",
+      "E",
+      "N",
+      "A"
+    ],
+    "words": [
+      "SCENA",
+      "SEC",
+      "CAN",
+      "ACE",
+      "NAS"
+    ],
+    "emoji": "🎬"
+  },
+  {
+    "letters": [
+      "P",
+      "L",
+      "A",
+      "N",
+      "T"
+    ],
+    "words": [
+      "PLANT",
+      "PAN",
+      "PAL",
+      "LAN",
+      "ANT"
+    ],
+    "emoji": "🌱"
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "A",
+      "S",
+      "T"
+    ],
+    "words": [
+      "COAST",
+      "COS",
+      "SAT",
+      "SOC",
+      "CAS"
+    ],
+    "emoji": "🏖️"
+  },
+  {
+    "letters": [
+      "T",
+      "R",
+      "O",
+      "N",
+      "C"
+    ],
+    "words": [
+      "TRONC",
+      "TOR",
+      "RON",
+      "NOR",
+      "CON"
+    ],
+    "emoji": "🪵"
+  },
+  {
+    "letters": [
+      "G",
+      "R",
+      "A",
+      "B",
+      "A"
+    ],
+    "words": [
+      "GRABA",
+      "RAG",
+      "BAR",
+      "GAR",
+      "BRA"
+    ],
+    "emoji": "⏰"
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "V",
+      "O",
+      "R"
+    ],
+    "words": [
+      "COVOR",
+      "COR",
+      "VOR",
+      "COP",
+      "ROV"
+    ],
+    "emoji": "🧶"
+  },
+  {
+    "letters": [
+      "L",
+      "U",
+      "C",
+      "R",
+      "U"
+    ],
+    "words": [
+      "LUCRU",
+      "CUR",
+      "LUC",
+      "RUC",
+      "CUL"
+    ],
+    "emoji": "🔨"
+  },
+  {
+    "letters": [
+      "N",
+      "O",
+      "A",
+      "P",
+      "T"
+    ],
+    "words": [
+      "NOAPT",
+      "NOT",
+      "POT",
+      "TAN",
+      "PAN"
+    ],
+    "emoji": "🌙"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "P",
+      "R",
+      "A"
+    ],
+    "words": [
+      "CAPRA",
+      "CAP",
+      "PAR",
+      "ARC",
+      "CAR"
+    ],
+    "emoji": "🐐"
+  },
+  {
+    "letters": [
+      "G",
+      "A",
+      "L",
+      "O",
+      "P"
+    ],
+    "words": [
+      "GALOP",
+      "GAL",
+      "PAL",
+      "GOL",
+      "LOG"
+    ],
+    "emoji": "🐎"
+  },
+  {
+    "letters": [
+      "D",
+      "O",
+      "L",
+      "A",
+      "R"
+    ],
+    "words": [
+      "DOLAR",
+      "DOR",
+      "ORA",
+      "LAR",
+      "ROD"
+    ],
+    "emoji": "💵"
+  },
+  {
+    "letters": [
+      "B",
+      "A",
+      "L",
+      "O",
+      "N"
+    ],
+    "words": [
+      "BALON",
+      "BAN",
+      "BAL",
+      "LOB",
+      "NOB"
+    ],
+    "emoji": "🎈"
+  },
+  {
+    "letters": [
+      "S",
+      "A",
+      "B",
+      "I",
+      "A"
+    ],
+    "words": [
+      "SABIA",
+      "SAB",
+      "BIS",
+      "AIR",
+      "BAS"
+    ],
+    "emoji": "⚔️"
+  },
+  {
+    "letters": [
+      "C",
+      "L",
+      "A",
+      "S",
+      "A"
+    ],
+    "words": [
+      "CLASA",
+      "CAS",
+      "SAL",
+      "LAC",
+      "SAC"
+    ],
+    "emoji": "🏫"
+  },
+  {
+    "letters": [
+      "I",
+      "N",
+      "I",
+      "M",
+      "A"
+    ],
+    "words": [
+      "INIMA",
+      "MIN",
+      "NIM",
+      "MAN",
+      "NAI"
+    ],
+    "emoji": "❤️"
+  },
+  {
+    "letters": [
+      "P",
+      "U",
+      "N",
+      "T",
+      "A"
+    ],
+    "words": [
+      "PUNTA",
+      "PUN",
+      "TUN",
+      "NUT",
+      "PAN"
+    ],
+    "emoji": "📍"
+  },
+  {
+    "letters": [
+      "T",
+      "R",
+      "E",
+      "N",
+      "A"
+    ],
+    "words": [
+      "TRENA",
+      "NET",
+      "RAN",
+      "ERA",
+      "TEN"
+    ],
+    "emoji": "🚂"
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "R",
+      "U",
+      "S"
+    ],
+    "words": [
+      "CORUS",
+      "COR",
+      "COS",
+      "SUR",
+      "ROS"
+    ],
+    "emoji": "🎶"
+  },
+  {
+    "letters": [
+      "G",
+      "R",
+      "A",
+      "V",
+      "A"
+    ],
+    "words": [
+      "GRAVA",
+      "RAG",
+      "VAR",
+      "GAR",
+      "AVR"
+    ],
+    "emoji": "⚠️"
+  },
+  {
+    "letters": [
+      "B",
+      "A",
+      "L",
+      "E",
+      "T"
+    ],
+    "words": [
+      "BALET",
+      "BAL",
+      "BEL",
+      "LAT",
+      "BET"
+    ],
+    "emoji": "🩰"
+  },
+  {
+    "letters": [
+      "S",
+      "I",
+      "G",
+      "U",
+      "R"
+    ],
+    "words": [
+      "SIGUR",
+      "SIR",
+      "RUG",
+      "GUR",
+      "SUR"
+    ],
+    "emoji": "🔒"
+  },
+  {
+    "letters": [
+      "L",
+      "I",
+      "B",
+      "E",
+      "R"
+    ],
+    "words": [
+      "LIBER",
+      "LIR",
+      "BIR",
+      "BER",
+      "LIB"
+    ],
+    "emoji": "🗽"
+  },
+  {
+    "letters": [
+      "M",
+      "A",
+      "N",
+      "O",
+      "R"
+    ],
+    "words": [
+      "MANOR",
+      "MOR",
+      "NOR",
+      "MAR",
+      "ORA"
+    ],
+    "emoji": "🏰"
+  },
+  {
+    "letters": [
+      "D",
+      "E",
+      "M",
+      "O",
+      "N"
+    ],
+    "words": [
+      "DEMON",
+      "DEM",
+      "MOD",
+      "DON",
+      "NOD"
+    ],
+    "emoji": "😈"
+  },
+  {
+    "letters": [
+      "S",
+      "C",
+      "O",
+      "R",
+      "T"
+    ],
+    "words": [
+      "SCORT",
+      "COS",
+      "COR",
+      "ROT",
+      "TOR"
+    ],
+    "emoji": "🛡️"
+  },
+  {
+    "letters": [
+      "T",
+      "R",
+      "O",
+      "I",
+      "C"
+    ],
+    "words": [
+      "TROIC",
+      "TIR",
+      "ROI",
+      "TOR",
+      "COI"
+    ],
+    "emoji": "❄️"
+  },
+  {
+    "letters": [
+      "F",
+      "R",
+      "U",
+      "N",
+      "T"
+    ],
+    "words": [
+      "FRUNT",
+      "FUR",
+      "TUR",
+      "NUR",
+      "RUN"
+    ],
+    "emoji": "😤"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "R",
+      "E",
+      "U"
+    ],
+    "words": [
+      "CAREU",
+      "CAR",
+      "ARC",
+      "CER",
+      "ERA"
+    ],
+    "emoji": "📐"
+  },
+  {
+    "letters": [
+      "T",
+      "O",
+      "P",
+      "A",
+      "Z"
+    ],
+    "words": [
+      "TOPAZ",
+      "TOP",
+      "POT",
+      "ZAT",
+      "TAP"
+    ],
+    "emoji": "💎"
+  },
+  {
+    "letters": [
+      "R",
+      "E",
+      "G",
+      "A",
+      "L"
+    ],
+    "words": [
+      "REGAL",
+      "REG",
+      "GEL",
+      "GAL",
+      "ERA"
+    ],
+    "emoji": "👑"
+  },
+  {
+    "letters": [
+      "M",
+      "O",
+      "R",
+      "T",
+      "A",
+      "R"
+    ],
+    "words": [
+      "MORTAR",
+      "MOR",
+      "ROT",
+      "TOR",
+      "MAR",
+      "ORA"
+    ],
+    "emoji": "🧱"
+  },
+  {
+    "letters": [
+      "M",
+      "E",
+      "T",
+      "E",
+      "O",
+      "R"
+    ],
+    "words": [
+      "METEOR",
+      "MET",
+      "REM",
+      "ROT",
+      "TOR",
+      "MER"
+    ],
+    "emoji": "☄️"
+  },
+  {
+    "letters": [
+      "P",
+      "R",
+      "I",
+      "M",
+      "A",
+      "R"
+    ],
+    "words": [
+      "PRIMAR",
+      "PAR",
+      "RIM",
+      "MIR",
+      "AIR",
+      "MAR"
+    ],
+    "emoji": "🏛️"
+  },
+  {
+    "letters": [
+      "M",
+      "I",
+      "S",
+      "T",
+      "E",
+      "R"
+    ],
+    "words": [
+      "MISTER",
+      "MIS",
+      "TIR",
+      "SIR",
+      "RIM",
+      "SET"
+    ],
+    "emoji": "🔮"
+  },
+  {
+    "letters": [
+      "P",
+      "R",
+      "O",
+      "F",
+      "I",
+      "T"
+    ],
+    "words": [
+      "PROFIT",
+      "POR",
+      "FIR",
+      "ROT",
+      "TIR",
+      "FIT"
+    ],
+    "emoji": "💰"
+  },
+  {
+    "letters": [
+      "R",
+      "O",
+      "T",
+      "U",
+      "N",
+      "D"
+    ],
+    "words": [
+      "ROTUND",
+      "ROT",
+      "TOR",
+      "NOT",
+      "NUR",
+      "TUN"
+    ],
+    "emoji": "⭕"
+  },
+  {
+    "letters": [
+      "S",
+      "E",
+      "N",
+      "I",
+      "O",
+      "R"
+    ],
+    "words": [
+      "SENIOR",
+      "SOR",
+      "ION",
+      "NOR",
+      "SIN",
+      "ROI"
+    ],
+    "emoji": "👴"
+  },
+  {
+    "letters": [
+      "D",
+      "I",
+      "A",
+      "L",
+      "O",
+      "G"
+    ],
+    "words": [
+      "DIALOG",
+      "DIG",
+      "OIL",
+      "GOL",
+      "AIL",
+      "LAG"
+    ],
+    "emoji": "💬"
+  },
+  {
+    "letters": [
+      "T",
+      "E",
+      "R",
+      "M",
+      "A",
+      "L"
+    ],
+    "words": [
+      "TERMAL",
+      "MER",
+      "ART",
+      "ERA",
+      "MAL",
+      "RAM"
+    ],
+    "emoji": "♨️"
+  },
+  {
+    "letters": [
+      "S",
+      "C",
+      "U",
+      "L",
+      "P",
+      "T"
+    ],
+    "words": [
+      "SCULPT",
+      "CUP",
+      "SUL",
+      "CUL",
+      "PUL",
+      "LUP"
+    ],
+    "emoji": "🗿"
+  },
+  {
+    "letters": [
+      "I",
+      "M",
+      "P",
+      "U",
+      "L",
+      "S"
+    ],
+    "words": [
+      "IMPULS",
+      "MIS",
+      "PUL",
+      "LUP",
+      "SIM",
+      "SIP"
+    ],
+    "emoji": "⚡"
+  },
+  {
+    "letters": [
+      "I",
+      "N",
+      "S",
+      "E",
+      "C",
+      "T"
+    ],
+    "words": [
+      "INSECT",
+      "TIN",
+      "SEC",
+      "SET",
+      "NIT",
+      "NIS"
+    ],
+    "emoji": "🐛"
+  },
+  {
+    "letters": [
+      "S",
+      "A",
+      "T",
+      "U",
+      "R",
+      "N"
+    ],
+    "words": [
+      "SATURN",
+      "SAT",
+      "TUR",
+      "RAN",
+      "NUR",
+      "TUN"
+    ],
+    "emoji": "🪐"
+  },
+  {
+    "letters": [
+      "F",
+      "A",
+      "L",
+      "C",
+      "O",
+      "N"
+    ],
+    "words": [
+      "FALCON",
+      "FAL",
+      "CON",
+      "LAC",
+      "CAL",
+      "FON"
+    ],
+    "emoji": "🦅"
+  },
+  {
+    "letters": [
+      "P",
+      "R",
+      "O",
+      "T",
+      "O",
+      "N"
+    ],
+    "words": [
+      "PROTON",
+      "POT",
+      "ROT",
+      "TOR",
+      "NOR",
+      "PRO"
+    ],
+    "emoji": "⚛️"
+  },
+  {
+    "letters": [
+      "F",
+      "I",
+      "L",
+      "M",
+      "A",
+      "T"
+    ],
+    "words": [
+      "FILMAT",
+      "FIL",
+      "FIT",
+      "MAT",
+      "LAT",
+      "LIT"
+    ],
+    "emoji": "🎬"
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "R",
+      "D",
+      "O",
+      "N"
+    ],
+    "words": [
+      "CORDON",
+      "COR",
+      "COD",
+      "DOR",
+      "NOR",
+      "ROD"
+    ],
+    "emoji": "🎗️"
+  },
+  {
+    "letters": [
+      "P",
+      "A",
+      "R",
+      "D",
+      "O",
+      "N"
+    ],
+    "words": [
+      "PARDON",
+      "PAR",
+      "DAR",
+      "NOR",
+      "ROD",
+      "DON"
+    ],
+    "emoji": "🙏"
+  },
+  {
+    "letters": [
+      "L",
+      "U",
+      "S",
+      "T",
+      "R",
+      "U"
+    ],
+    "words": [
+      "LUSTRU",
+      "LUT",
+      "TUR",
+      "SUR",
+      "RUS",
+      "SUL"
+    ],
+    "emoji": "✨"
+  },
+  {
+    "letters": [
+      "L",
+      "E",
+      "C",
+      "T",
+      "O",
+      "R"
+    ],
+    "words": [
+      "LECTOR",
+      "LET",
+      "CER",
+      "ROT",
+      "TOR",
+      "COL"
+    ],
+    "emoji": "📚"
+  },
+  {
+    "letters": [
+      "C",
+      "U",
+      "N",
+      "U",
+      "N",
+      "A"
+    ],
+    "words": [
+      "CUNUNA",
+      "CAN",
+      "NUC",
+      "UNA",
+      "NAC",
+      "CUN"
+    ],
+    "emoji": "👑"
+  },
+  {
+    "letters": [
+      "A",
+      "D",
+      "M",
+      "I",
+      "R",
+      "A",
+      "L"
+    ],
+    "words": [
+      "ADMIRAL",
+      "DAR",
+      "MIR",
+      "AIR",
+      "MAR",
+      "MAI",
+      "RIM"
+    ],
+    "emoji": "⚓"
+  },
+  {
+    "letters": [
+      "A",
+      "V",
+      "E",
+      "N",
+      "T",
+      "U",
+      "R"
+    ],
+    "words": [
+      "AVENTUR",
+      "VAN",
+      "NET",
+      "TUR",
+      "RAN",
+      "NUR",
+      "ART"
+    ],
+    "emoji": "🗺️"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "R",
+      "I",
+      "E",
+      "R",
+      "A"
+    ],
+    "words": [
+      "CARIERA",
+      "CAR",
+      "ARC",
+      "ERA",
+      "AIR",
+      "RAI",
+      "CER"
+    ],
+    "emoji": "📈"
+  },
+  {
+    "letters": [
+      "C",
+      "E",
+      "N",
+      "T",
+      "R",
+      "A",
+      "L"
+    ],
+    "words": [
+      "CENTRAL",
+      "NET",
+      "CER",
+      "RAN",
+      "TAN",
+      "ARC",
+      "LAN"
+    ],
+    "emoji": "📍"
+  },
+  {
+    "letters": [
+      "D",
+      "I",
+      "S",
+      "C",
+      "R",
+      "E",
+      "T"
+    ],
+    "words": [
+      "DISCRET",
+      "DIS",
+      "SIR",
+      "TIR",
+      "RID",
+      "SET",
+      "CER"
+    ],
+    "emoji": "🤫"
+  },
+  {
+    "letters": [
+      "D",
+      "I",
+      "P",
+      "L",
+      "O",
+      "M",
+      "A"
+    ],
+    "words": [
+      "DIPLOMA",
+      "DIP",
+      "LIP",
+      "MOD",
+      "MIL",
+      "PIL",
+      "ODA"
+    ],
+    "emoji": "📜"
+  },
+  {
+    "letters": [
+      "F",
+      "L",
+      "O",
+      "R",
+      "A",
+      "R",
+      "I"
+    ],
+    "words": [
+      "FLORARI",
+      "FIR",
+      "AIR",
+      "ROI",
+      "ORA",
+      "LAR",
+      "FIL"
+    ],
+    "emoji": "🌺"
+  },
+  {
+    "letters": [
+      "G",
+      "L",
+      "O",
+      "R",
+      "I",
+      "O",
+      "S"
+    ],
+    "words": [
+      "GLORIOS",
+      "SOL",
+      "ROI",
+      "GOL",
+      "SOR",
+      "ORI",
+      "LOG"
+    ],
+    "emoji": "🌟"
+  },
+  {
+    "letters": [
+      "N",
+      "O",
+      "C",
+      "T",
+      "U",
+      "R",
+      "N"
+    ],
+    "words": [
+      "NOCTURN",
+      "NOT",
+      "NOR",
+      "TOR",
+      "TUN",
+      "COR",
+      "NUC"
+    ],
+    "emoji": "🌙"
+  },
+  {
+    "letters": [
+      "S",
+      "I",
+      "M",
+      "F",
+      "O",
+      "N",
+      "I"
+    ],
+    "words": [
+      "SIMFONI",
+      "SIN",
+      "FIN",
+      "ION",
+      "MIS",
+      "NIS",
+      "FIM"
+    ],
+    "emoji": "🎵"
+  },
+  {
+    "letters": [
+      "V",
+      "I",
+      "R",
+      "T",
+      "U",
+      "A",
+      "L"
+    ],
+    "words": [
+      "VIRTUAL",
+      "VIR",
+      "TIR",
+      "AIR",
+      "ART",
+      "TUR",
+      "LIT"
+    ],
+    "emoji": "🖥️"
+  },
+  {
+    "letters": [
+      "U",
+      "N",
+      "I",
+      "V",
+      "E",
+      "R",
+      "S"
+    ],
+    "words": [
+      "UNIVERS",
+      "VIN",
+      "SIR",
+      "SUR",
+      "NIS",
+      "VIS",
+      "NUR"
+    ],
+    "emoji": "🌌"
+  },
+  {
+    "letters": [
+      "P",
+      "E",
+      "R",
+      "I",
+      "C",
+      "O",
+      "L"
+    ],
+    "words": [
+      "PERICOL",
+      "PER",
+      "PIC",
+      "COR",
+      "ROI",
+      "COP",
+      "ORI"
+    ],
+    "emoji": "⚠️"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "B",
+      "I",
+      "N",
+      "E",
+      "T"
+    ],
+    "words": [
+      "CABINET",
+      "BAN",
+      "CAN",
+      "NET",
+      "TIN",
+      "BIT",
+      "NIT"
+    ],
+    "emoji": "🏛️"
+  },
+  {
+    "letters": [
+      "F",
+      "E",
+      "S",
+      "T",
+      "I",
+      "V",
+      "A",
+      "L"
+    ],
+    "words": [
+      "FESTIVAL",
+      "SET",
+      "VIS",
+      "FIT",
+      "SAT",
+      "FIL",
+      "VIS",
+      "LAT"
+    ],
+    "emoji": "🎪"
+  },
+  {
+    "letters": [
+      "S",
+      "A",
+      "R",
+      "B"
+    ],
+    "words": [
+      "SARB",
+      "SAR",
+      "BAR",
+      "RAS"
+    ],
+    "emoji": "🎉"
+  },
+  {
+    "letters": [
+      "B",
+      "L",
+      "A",
+      "N",
+      "D"
+    ],
+    "words": [
+      "BLAND",
+      "BAN",
+      "LAN",
+      "NAB",
+      "DAL"
+    ],
+    "emoji": "😊"
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "M",
+      "I",
+      "C"
+    ],
+    "words": [
+      "COMIC",
+      "COM",
+      "MIC",
+      "CIM",
+      "MOC"
+    ],
+    "emoji": "😂"
+  },
+  {
+    "letters": [
+      "D",
+      "E",
+      "S",
+      "T"
+    ],
+    "words": [
+      "DEST",
+      "DES",
+      "SET",
+      "TES"
+    ],
+    "emoji": "🎯"
+  },
+  {
+    "letters": [
+      "P",
+      "E",
+      "S",
+      "T"
+    ],
+    "words": [
+      "PEST",
+      "PES",
+      "SET",
+      "SPE"
+    ],
+    "emoji": "🦟"
+  },
+  {
+    "letters": [
+      "T",
+      "E",
+      "S",
+      "T"
+    ],
+    "words": [
+      "TEST",
+      "SET",
+      "TES",
+      "EST"
+    ],
+    "emoji": "📝"
+  },
+  {
+    "letters": [
+      "R",
+      "E",
+      "S",
+      "T"
+    ],
+    "words": [
+      "REST",
+      "RES",
+      "SET",
+      "SER"
+    ],
+    "emoji": "💤"
+  },
+  {
+    "letters": [
+      "N",
+      "E",
+      "S",
+      "T"
+    ],
+    "words": [
+      "NEST",
+      "NET",
+      "SET",
+      "SEN"
+    ],
+    "emoji": "🪺"
+  },
+  {
+    "letters": [
+      "V",
+      "E",
+      "S",
+      "T"
+    ],
+    "words": [
+      "VEST",
+      "VES",
+      "SET",
+      "VET"
+    ],
+    "emoji": "👔"
+  },
+  {
+    "letters": [
+      "B",
+      "E",
+      "S",
+      "T"
+    ],
+    "words": [
+      "BEST",
+      "BES",
+      "SET",
+      "BET"
+    ],
+    "emoji": "🏆"
+  },
+  {
+    "letters": [
+      "G",
+      "R",
+      "O",
+      "S"
+    ],
+    "words": [
+      "GROS",
+      "GOR",
+      "ROS",
+      "SOR"
+    ],
+    "emoji": "📏"
+  },
+  {
+    "letters": [
+      "P",
+      "R",
+      "O",
+      "S",
+      "T"
+    ],
+    "words": [
+      "PROST",
+      "POR",
+      "ROT",
+      "TOR",
+      "TOP",
+      "ROS"
+    ],
+    "emoji": "😅"
+  },
+  {
+    "letters": [
+      "M",
+      "O",
+      "N",
+      "S",
+      "T",
+      "R",
+      "U"
+    ],
+    "words": [
+      "MONSTRU",
+      "MON",
+      "NOR",
+      "TOR",
+      "SOR",
+      "ROT",
+      "MOR"
+    ],
+    "emoji": "👹"
+  },
+  {
+    "letters": [
+      "S",
+      "P",
+      "L",
+      "I",
+      "N"
+    ],
+    "words": [
+      "SPLIN",
+      "PIN",
+      "LIN",
+      "SIP",
+      "NIS"
+    ],
+    "emoji": "😔"
+  },
+  {
+    "letters": [
+      "B",
+      "R",
+      "O",
+      "N",
+      "Z"
+    ],
+    "words": [
+      "BRONZ",
+      "BOR",
+      "NOR",
+      "RON",
+      "ROB"
+    ],
+    "emoji": "🥉"
+  },
+  {
+    "letters": [
+      "C",
+      "I",
+      "R",
+      "C"
+    ],
+    "words": [
+      "CIRC",
+      "CIR",
+      "RIC",
+      "CRI"
+    ],
+    "emoji": "🎪"
+  },
+  {
+    "letters": [
+      "A",
+      "L",
+      "B",
+      "I",
+      "N"
+    ],
+    "words": [
+      "ALBIN",
+      "BAN",
+      "LIN",
+      "ALB",
+      "NIL"
+    ],
+    "emoji": "🐝"
+  },
+  {
+    "letters": [
+      "C",
+      "R",
+      "I",
+      "P",
+      "T"
+    ],
+    "words": [
+      "CRIPT",
+      "CRI",
+      "TIP",
+      "PIR",
+      "RIP"
+    ],
+    "emoji": "🔐"
+  },
+  {
+    "letters": [
+      "S",
+      "C",
+      "R",
+      "I",
+      "S"
+    ],
+    "words": [
+      "SCRIS",
+      "SIR",
+      "CRI",
+      "RIS",
+      "SIC"
+    ],
+    "emoji": "✍️"
+  },
+  {
+    "letters": [
+      "V",
+      "E",
+      "R",
+      "D",
+      "E"
+    ],
+    "words": [
+      "VERDE",
+      "VER",
+      "RED",
+      "REV",
+      "DER"
+    ],
+    "emoji": "🟢"
+  },
+  {
+    "letters": [
+      "G",
+      "A",
+      "L",
+      "B"
+    ],
+    "words": [
+      "GALB",
+      "GAL",
+      "LAG",
+      "BAL"
+    ],
+    "emoji": "🟡"
+  },
+  {
+    "letters": [
+      "R",
+      "O",
+      "B",
+      "I",
+      "N"
+    ],
+    "words": [
+      "ROBIN",
+      "ROB",
+      "BOR",
+      "ION",
+      "BOI"
+    ],
+    "emoji": "🐦"
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "B",
+      "R",
+      "A"
+    ],
+    "words": [
+      "COBRA",
+      "COR",
+      "ROB",
+      "BOR",
+      "ARC"
+    ],
+    "emoji": "🐍"
+  },
+  {
+    "letters": [
+      "S",
+      "P",
+      "I",
+      "R",
+      "T"
+    ],
+    "words": [
+      "SPIRT",
+      "SIR",
+      "TIR",
+      "RIP",
+      "SIP"
+    ],
+    "emoji": "🥃"
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "R",
+      "N",
+      "I"
+    ],
+    "words": [
+      "CORNI",
+      "COR",
+      "NOR",
+      "ION",
+      "ROI"
+    ],
+    "emoji": "🫐"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "L",
+      "U",
+      "T"
+    ],
+    "words": [
+      "CALUT",
+      "CAL",
+      "LAC",
+      "CUT",
+      "TUL"
+    ],
+    "emoji": "🐴"
+  },
+  {
+    "letters": [
+      "M",
+      "A",
+      "G",
+      "I",
+      "C"
+    ],
+    "words": [
+      "MAGIC",
+      "MAG",
+      "MIC",
+      "GAM",
+      "CIG"
+    ],
+    "emoji": "🪄"
+  },
+  {
+    "letters": [
+      "L",
+      "U",
+      "N",
+      "A",
+      "R"
+    ],
+    "words": [
+      "LUNAR",
+      "LAN",
+      "NUR",
+      "RAN",
+      "NAR"
+    ],
+    "emoji": "🌙"
+  },
+  {
+    "letters": [
+      "S",
+      "T",
+      "E",
+      "L",
+      "A",
+      "R"
+    ],
+    "words": [
+      "STELAR",
+      "SET",
+      "SAT",
+      "ART",
+      "ERA",
+      "LAT",
+      "LES"
+    ],
+    "emoji": "⭐"
+  },
+  {
+    "letters": [
+      "O",
+      "R",
+      "B",
+      "I",
+      "T"
+    ],
+    "words": [
+      "ORBIT",
+      "ORI",
+      "ROT",
+      "TIR",
+      "BOI",
+      "ROI"
+    ],
+    "emoji": "🌍"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "R",
+      "M",
+      "I",
+      "N"
+    ],
+    "words": [
+      "CARMIN",
+      "CAR",
+      "ARC",
+      "MIN",
+      "RAN",
+      "MIR",
+      "NIM"
+    ],
+    "emoji": "🔴"
+  },
+  {
+    "letters": [
+      "S",
+      "P",
+      "A",
+      "T",
+      "I",
+      "U"
+    ],
+    "words": [
+      "SPATIU",
+      "SPA",
+      "SAT",
+      "TIP",
+      "PAS",
+      "PUS",
+      "SIT"
+    ],
+    "emoji": "🚀"
+  },
+  {
+    "letters": [
+      "B",
+      "U",
+      "S",
+      "O",
+      "L",
+      "A"
+    ],
+    "words": [
+      "BUSOLA",
+      "BUS",
+      "SOL",
+      "BOL",
+      "SAL",
+      "LOB",
+      "SUB"
+    ],
+    "emoji": "🧭"
+  },
+  {
+    "letters": [
+      "G",
+      "H",
+      "I",
+      "N",
+      "D",
+      "A"
+    ],
+    "words": [
+      "GHINDA",
+      "GHI",
+      "DIN",
+      "NAD",
+      "GIN",
+      "HID"
+    ],
+    "emoji": "🌰"
+  },
+  {
+    "letters": [
+      "T",
+      "I",
+      "G",
+      "R",
+      "U"
+    ],
+    "words": [
+      "TIGRU",
+      "TIR",
+      "RUG",
+      "GUR",
+      "TIG",
+      "GRI"
+    ],
+    "emoji": "🐅"
+  },
+  {
+    "letters": [
+      "V",
+      "I",
+      "O",
+      "A",
+      "R",
+      "A"
+    ],
+    "words": [
+      "VIOARA",
+      "VIE",
+      "ORA",
+      "AIR",
+      "ROI",
+      "VAR",
+      "RAI"
+    ],
+    "emoji": "🎻"
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "P",
+      "A",
+      "C"
+    ],
+    "words": [
+      "COPAC",
+      "COP",
+      "CAP",
+      "PAC",
+      "COA",
+      "POC"
+    ],
+    "emoji": "🌳"
+  },
+  {
+    "letters": [
+      "S",
+      "T",
+      "R",
+      "A",
+      "D"
+    ],
+    "words": [
+      "STRAD",
+      "SAT",
+      "RAD",
+      "DAR",
+      "ART",
+      "RAS"
+    ],
+    "emoji": "🛣️"
+  },
+  {
+    "letters": [
+      "B",
+      "U",
+      "R",
+      "L",
+      "A",
+      "N"
+    ],
+    "words": [
+      "BURLAN",
+      "BUR",
+      "RAN",
+      "LAN",
+      "NAR",
+      "NUR",
+      "BAR"
+    ],
+    "emoji": "🫙"
+  },
+  {
+    "letters": [
+      "T",
+      "A",
+      "B",
+      "L",
+      "O",
+      "U"
+    ],
+    "words": [
+      "TABLOU",
+      "TAB",
+      "BAL",
+      "LOT",
+      "BOL",
+      "LAT",
+      "BUT"
+    ],
+    "emoji": "🖼️"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "I",
+      "S",
+      "A"
+    ],
+    "words": [
+      "CAISA",
+      "CAS",
+      "SAC",
+      "AIR",
+      "SAI",
+      "CIS"
+    ],
+    "emoji": "🍑"
+  },
+  {
+    "letters": [
+      "P",
+      "R",
+      "U",
+      "N",
+      "A"
+    ],
+    "words": [
+      "PRUNA",
+      "PUR",
+      "NUR",
+      "RAN",
+      "PAN",
+      "NAP"
+    ],
+    "emoji": "🫐"
+  },
+  {
+    "letters": [
+      "Z",
+      "M",
+      "E",
+      "U",
+      "R",
+      "A"
+    ],
+    "words": [
+      "ZMEURA",
+      "ZAR",
+      "MER",
+      "REM",
+      "ERA",
+      "RUZ",
+      "MAR"
+    ],
+    "emoji": "🍓"
+  },
+  {
+    "letters": [
+      "L",
+      "Ă",
+      "M",
+      "Â",
+      "I",
+      "E"
+    ],
+    "words": [
+      "LĂMÂIE",
+      "LĂM",
+      "MIE",
+      "LIM",
+      "ĂIM"
+    ],
+    "emoji": "🍋"
+  },
+  {
+    "letters": [
+      "P",
+      "E",
+      "P",
+      "E",
+      "N",
+      "E"
+    ],
+    "words": [
+      "PEPENE",
+      "PEN",
+      "NEP",
+      "PEP",
+      "ENE"
+    ],
+    "emoji": "🍉"
+  },
+  {
+    "letters": [
+      "M",
+      "Ă",
+      "R",
+      "G",
+      "E",
+      "A"
+    ],
+    "words": [
+      "MĂRGEA",
+      "MĂR",
+      "GER",
+      "ERA",
+      "REG",
+      "MAG"
+    ],
+    "emoji": "📿"
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "L",
+      "I",
+      "N",
+      "D"
+    ],
+    "words": [
+      "COLIND",
+      "COL",
+      "LIN",
+      "DIN",
+      "NOD",
+      "ION"
+    ],
+    "emoji": "🎄"
+  },
+  {
+    "letters": [
+      "S",
+      "T",
+      "R",
+      "U",
+      "N",
+      "G"
+    ],
+    "words": [
+      "STRUNG",
+      "SUR",
+      "TUR",
+      "NUR",
+      "RUG",
+      "GUR",
+      "TUN"
+    ],
+    "emoji": "🔧"
+  },
+  {
+    "letters": [
+      "M",
+      "A",
+      "I",
+      "M",
+      "U",
+      "T"
+    ],
+    "words": [
+      "MAIMUT",
+      "MAI",
+      "MUT",
+      "MAT",
+      "TIM",
+      "MUI"
+    ],
+    "emoji": "🐒"
+  },
+  {
+    "letters": [
+      "P",
+      "Ă",
+      "I",
+      "A",
+      "N",
+      "J",
+      "E",
+      "N"
+    ],
+    "words": [
+      "PĂIANJEN",
+      "PĂI",
+      "NAI",
+      "JEN",
+      "PAN",
+      "NAP",
+      "INE"
+    ],
+    "emoji": "🕷️"
+  },
+  {
+    "letters": [
+      "L",
+      "A",
+      "B",
+      "I",
+      "R",
+      "I",
+      "N",
+      "T"
+    ],
+    "words": [
+      "LABIRINT",
+      "LAB",
+      "BIR",
+      "TIN",
+      "LIN",
+      "RAN",
+      "NIT",
+      "AIR"
+    ],
+    "emoji": "🌀"
+  },
+  {
+    "letters": [
+      "C",
+      "U",
+      "R",
+      "C",
+      "U",
+      "B",
+      "E",
+      "U"
+    ],
+    "words": [
+      "CURCUBEU",
+      "CUR",
+      "CUB",
+      "BUR",
+      "REC",
+      "BUC",
+      "CRU"
+    ],
+    "emoji": "🌈"
+  },
+  {
+    "letters": [
+      "P",
+      "R",
+      "I",
+      "E",
+      "T",
+      "E",
+      "N"
+    ],
+    "words": [
+      "PRIETEN",
+      "PER",
+      "NET",
+      "TIN",
+      "PIR",
+      "NIT",
+      "RET"
+    ],
+    "emoji": "🤝"
+  },
+  {
+    "letters": [
+      "F",
+      "R",
+      "U",
+      "M",
+      "O",
+      "S"
+    ],
+    "words": [
+      "FRUMOS",
+      "FUR",
+      "MOR",
+      "SOR",
+      "ROS",
+      "SUR",
+      "RUM"
+    ],
+    "emoji": "😍"
+  },
+  {
+    "letters": [
+      "V",
+      "I",
+      "T",
+      "E",
+      "A",
+      "Z"
+    ],
+    "words": [
+      "VITEAZ",
+      "VIT",
+      "VIE",
+      "ZAT",
+      "TAV",
+      "AZI"
+    ],
+    "emoji": "⚔️"
+  },
+  {
+    "letters": [
+      "M",
+      "U",
+      "N",
+      "C",
+      "I",
+      "T",
+      "O",
+      "R"
+    ],
+    "words": [
+      "MUNCITOR",
+      "MUN",
+      "TIN",
+      "NUC",
+      "COR",
+      "ION",
+      "TOR",
+      "MUT"
+    ],
+    "emoji": "👷"
+  },
+  {
+    "letters": [
+      "I",
+      "N",
+      "V",
+      "A",
+      "T",
+      "A",
+      "T",
+      "O",
+      "R"
+    ],
+    "words": [
+      "INVATATOR",
+      "VAN",
+      "TIN",
+      "ION",
+      "NOT",
+      "TAN",
+      "ART",
+      "NIT",
+      "VIS"
+    ],
+    "emoji": "👨‍🏫"
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "N",
+      "D",
+      "U",
+      "C",
+      "A",
+      "T",
+      "O",
+      "R"
+    ],
+    "words": [
+      "CONDUCATOR",
+      "CON",
+      "COR",
+      "DON",
+      "NUC",
+      "TOR",
+      "CUT",
+      "NOT",
+      "DUR"
+    ],
+    "emoji": "👑"
+  },
+  {
+    "letters": [
+      "A",
+      "L",
+      "T"
+    ],
+    "words": [
+      "ALT",
+      "TAL"
+    ],
+    "emoji": "🔄"
+  },
+  {
+    "letters": [
+      "E",
+      "R",
+      "A"
+    ],
+    "words": [
+      "ERA",
+      "ARE"
+    ],
+    "emoji": "⏳"
+  },
+  {
+    "letters": [
+      "A",
+      "C",
+      "T"
+    ],
+    "words": [
+      "ACT",
+      "TAC"
+    ],
+    "emoji": "🎭"
+  },
+  {
+    "letters": [
+      "U",
+      "N",
+      "S"
+    ],
+    "words": [
+      "UNS",
+      "SUN"
+    ],
+    "emoji": "🧈"
+  },
+  {
+    "letters": [
+      "P",
+      "U",
+      "S"
+    ],
+    "words": [
+      "PUS",
+      "SUP"
+    ],
+    "emoji": "📍"
+  },
+  {
+    "letters": [
+      "D",
+      "U",
+      "S"
+    ],
+    "words": [
+      "DUS",
+      "SUD"
+    ],
+    "emoji": "🚿"
+  },
+  {
+    "letters": [
+      "R",
+      "U",
+      "S"
+    ],
+    "words": [
+      "RUS",
+      "SUR"
+    ],
+    "emoji": "🇷🇺"
+  },
+  {
+    "letters": [
+      "M",
+      "U",
+      "T"
+    ],
+    "words": [
+      "MUT",
+      "TUM"
+    ],
+    "emoji": "🤐"
+  },
+  {
+    "letters": [
+      "C",
+      "U",
+      "T"
+    ],
+    "words": [
+      "CUT",
+      "TUC"
+    ],
+    "emoji": "📦"
+  },
+  {
+    "letters": [
+      "N",
+      "U",
+      "T"
+    ],
+    "words": [
+      "NUT",
+      "TUN"
+    ],
+    "emoji": "🌰"
+  },
+  {
+    "letters": [
+      "P",
+      "U",
+      "R"
+    ],
+    "words": [
+      "PUR",
+      "RUP"
+    ],
+    "emoji": "💎"
+  },
+  {
+    "letters": [
+      "D",
+      "U",
+      "R"
+    ],
+    "words": [
+      "DUR",
+      "RUD"
+    ],
+    "emoji": "💪"
+  },
+  {
+    "letters": [
+      "S",
+      "U",
+      "L"
+    ],
+    "words": [
+      "SUL",
+      "LUS"
+    ],
+    "emoji": "📜"
+  },
+  {
+    "letters": [
+      "B",
+      "U",
+      "R"
+    ],
+    "words": [
+      "BUR",
+      "RUB"
+    ],
+    "emoji": "🧽"
+  },
+  {
+    "letters": [
+      "L",
+      "U",
+      "T"
+    ],
+    "words": [
+      "LUT",
+      "TUL"
+    ],
+    "emoji": "🏺"
+  },
+  {
+    "letters": [
+      "G",
+      "U",
+      "L"
+    ],
+    "words": [
+      "GUL",
+      "LUG"
+    ],
+    "emoji": "🫗"
+  },
+  {
+    "letters": [
+      "C",
+      "U",
+      "I"
+    ],
+    "words": [
+      "CUI",
+      "IUC"
+    ],
+    "emoji": "🔩"
+  },
+  {
+    "letters": [
+      "R",
+      "U",
+      "I"
+    ],
+    "words": [
+      "RUI",
+      "IRU"
+    ],
+    "emoji": "🏚️"
+  },
+  {
+    "letters": [
+      "V",
+      "I",
+      "U"
+    ],
+    "words": [
+      "VIU",
+      "UIV"
+    ],
+    "emoji": "🎨"
+  },
+  {
+    "letters": [
+      "F",
+      "I",
+      "U"
+    ],
+    "words": [
+      "FIU",
+      "UIF"
+    ],
+    "emoji": "👦"
+  },
+  {
+    "letters": [
+      "R",
+      "I",
+      "S"
+    ],
+    "words": [
+      "RIS",
+      "SIR"
+    ],
+    "emoji": "😄"
+  },
+  {
+    "letters": [
+      "D",
+      "I",
+      "N"
+    ],
+    "words": [
+      "DIN",
+      "NID"
+    ],
+    "emoji": "📍"
+  },
+  {
+    "letters": [
+      "S",
+      "U",
+      "B"
+    ],
+    "words": [
+      "SUB",
+      "BUS"
+    ],
+    "emoji": "⬇️"
+  },
+  {
+    "letters": [
+      "M",
+      "A",
+      "R"
+    ],
+    "words": [
+      "MAR",
+      "RAM"
+    ],
+    "emoji": "🌊"
+  },
+  {
+    "letters": [
+      "D",
+      "A",
+      "R"
+    ],
+    "words": [
+      "DAR",
+      "RAD"
+    ],
+    "emoji": "🎁"
+  },
+  {
+    "letters": [
+      "V",
+      "A",
+      "R"
+    ],
+    "words": [
+      "VAR",
+      "RAV"
+    ],
+    "emoji": "🖌️"
+  },
+  {
+    "letters": [
+      "L",
+      "A",
+      "R"
+    ],
+    "words": [
+      "LAR",
+      "RAL"
+    ],
+    "emoji": "🏡"
+  },
+  {
+    "letters": [
+      "B",
+      "A",
+      "R"
+    ],
+    "words": [
+      "BAR",
+      "RAB"
+    ],
+    "emoji": "🍺"
+  },
+  {
+    "letters": [
+      "M",
+      "O",
+      "R"
+    ],
+    "words": [
+      "MOR",
+      "ROM"
+    ],
+    "emoji": "💀"
+  },
+  {
+    "letters": [
+      "S",
+      "O",
+      "R"
+    ],
+    "words": [
+      "SOR",
+      "ROS"
+    ],
+    "emoji": "👩"
+  },
+  {
+    "letters": [
+      "Z",
+      "O",
+      "R"
+    ],
+    "words": [
+      "ZOR",
+      "ROZ"
+    ],
+    "emoji": "⚡"
+  },
+  {
+    "letters": [
+      "D",
+      "I",
+      "S"
+    ],
+    "words": [
+      "DIS",
+      "SID"
+    ],
+    "emoji": "🔇"
+  },
+  {
+    "letters": [
+      "G",
+      "R",
+      "I"
+    ],
+    "words": [
+      "GRI",
+      "RIG"
+    ],
+    "emoji": "⬜"
+  },
+  {
+    "letters": [
+      "F",
+      "L",
+      "A",
+      "C"
+    ],
+    "words": [
+      "FLAC",
+      "FAL",
+      "LAC",
+      "CAL"
+    ],
+    "emoji": "🔥"
+  },
+  {
+    "letters": [
+      "B",
+      "L",
+      "A",
+      "T"
+    ],
+    "words": [
+      "BLAT",
+      "BAL",
+      "LAT",
+      "BAT"
+    ],
+    "emoji": "🥧"
+  },
+  {
+    "letters": [
+      "C",
+      "L",
+      "I",
+      "P"
+    ],
+    "words": [
+      "CLIP",
+      "CIP",
+      "LIP",
+      "PIL"
+    ],
+    "emoji": "📎"
+  },
+  {
+    "letters": [
+      "S",
+      "L",
+      "A",
+      "B"
+    ],
+    "words": [
+      "SLAB",
+      "SAL",
+      "LAB",
+      "BAS"
+    ],
+    "emoji": "📏"
+  },
+  {
+    "letters": [
+      "G",
+      "L",
+      "O",
+      "B"
+    ],
+    "words": [
+      "GLOB",
+      "GOL",
+      "LOG",
+      "BOL"
+    ],
+    "emoji": "🌍"
+  },
+  {
+    "letters": [
+      "P",
+      "L",
+      "O",
+      "D"
+    ],
+    "words": [
+      "PLOD",
+      "POD",
+      "DOL",
+      "LOP"
+    ],
+    "emoji": "🚶"
+  },
+  {
+    "letters": [
+      "S",
+      "N",
+      "O",
+      "B"
+    ],
+    "words": [
+      "SNOB",
+      "NOB",
+      "SON",
+      "BON"
+    ],
+    "emoji": "🧐"
+  },
+  {
+    "letters": [
+      "C",
+      "L",
+      "O",
+      "R"
+    ],
+    "words": [
+      "CLOR",
+      "COL",
+      "COR",
+      "ROC"
+    ],
+    "emoji": "🧪"
+  },
+  {
+    "letters": [
+      "C",
+      "L",
+      "A",
+      "N"
+    ],
+    "words": [
+      "CLAN",
+      "CAN",
+      "LAN",
+      "NAC"
+    ],
+    "emoji": "👥"
+  },
+  {
+    "letters": [
+      "B",
+      "R",
+      "A",
+      "V"
+    ],
+    "words": [
+      "BRAV",
+      "BAR",
+      "VAR",
+      "RAB"
+    ],
+    "emoji": "🦁"
+  },
+  {
+    "letters": [
+      "C",
+      "R",
+      "A",
+      "P"
+    ],
+    "words": [
+      "CRAP",
+      "CAR",
+      "PAR",
+      "ARC"
+    ],
+    "emoji": "🐟"
+  },
+  {
+    "letters": [
+      "D",
+      "R",
+      "A",
+      "P"
+    ],
+    "words": [
+      "DRAP",
+      "DAR",
+      "PAR",
+      "RAP"
+    ],
+    "emoji": "🧵"
+  },
+  {
+    "letters": [
+      "F",
+      "R",
+      "A",
+      "G"
+    ],
+    "words": [
+      "FRAG",
+      "FAR",
+      "RAG",
+      "GAR"
+    ],
+    "emoji": "💣"
+  },
+  {
+    "letters": [
+      "G",
+      "R",
+      "I",
+      "D"
+    ],
+    "words": [
+      "GRID",
+      "GRI",
+      "RID",
+      "DIG"
+    ],
+    "emoji": "📊"
+  },
+  {
+    "letters": [
+      "P",
+      "I",
+      "S",
+      "T"
+    ],
+    "words": [
+      "PIST",
+      "PIS",
+      "SIT",
+      "TIP"
+    ],
+    "emoji": "🔫"
+  },
+  {
+    "letters": [
+      "R",
+      "I",
+      "S",
+      "C"
+    ],
+    "words": [
+      "RISC",
+      "RIS",
+      "SIR",
+      "CRI"
+    ],
+    "emoji": "⚠️"
+  },
+  {
+    "letters": [
+      "D",
+      "I",
+      "S",
+      "C"
+    ],
+    "words": [
+      "DISC",
+      "DIS",
+      "SIC",
+      "CIS"
+    ],
+    "emoji": "💿"
+  },
+  {
+    "letters": [
+      "B",
+      "U",
+      "C",
+      "L"
+    ],
+    "words": [
+      "BUCL",
+      "BUC",
+      "CUB",
+      "CUL"
+    ],
+    "emoji": "🔄"
+  },
+  {
+    "letters": [
+      "T",
+      "U",
+      "R",
+      "C"
+    ],
+    "words": [
+      "TURC",
+      "TUR",
+      "CUR",
+      "RUT"
+    ],
+    "emoji": "🇹🇷"
+  },
+  {
+    "letters": [
+      "M",
+      "U",
+      "L",
+      "T"
+    ],
+    "words": [
+      "MULT",
+      "MUL",
+      "TUL",
+      "LUT"
+    ],
+    "emoji": "📦"
+  },
+  {
+    "letters": [
+      "P",
+      "U",
+      "N",
+      "T"
+    ],
+    "words": [
+      "PUNT",
+      "PUN",
+      "NUT",
+      "TUN"
+    ],
+    "emoji": "📍"
+  },
+  {
+    "letters": [
+      "G",
+      "U",
+      "N",
+      "A"
+    ],
+    "words": [
+      "GUNA",
+      "GUN",
+      "NAG",
+      "GAN"
+    ],
+    "emoji": "🧥"
+  },
+  {
+    "letters": [
+      "R",
+      "U",
+      "N",
+      "A"
+    ],
+    "words": [
+      "RUNA",
+      "RUN",
+      "NUR",
+      "RAN"
+    ],
+    "emoji": "🔮"
+  },
+  {
+    "letters": [
+      "F",
+      "A",
+      "C",
+      "T"
+    ],
+    "words": [
+      "FACT",
+      "FAC",
+      "ACT",
+      "CAT"
+    ],
+    "emoji": "📝"
+  },
+  {
+    "letters": [
+      "P",
+      "A",
+      "R",
+      "T"
+    ],
+    "words": [
+      "PART",
+      "PAR",
+      "ART",
+      "RAP"
+    ],
+    "emoji": "📊"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "R",
+      "T"
+    ],
+    "words": [
+      "CART",
+      "CAR",
+      "ARC",
+      "ART"
+    ],
+    "emoji": "📖"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "R",
+      "A",
+      "S"
+    ],
+    "words": [
+      "CARAS",
+      "CAR",
+      "ARC",
+      "SAR",
+      "RAS"
+    ],
+    "emoji": "🏺"
+  },
+  {
+    "letters": [
+      "D",
+      "O",
+      "R",
+      "I",
+      "T"
+    ],
+    "words": [
+      "DORIT",
+      "DOR",
+      "ROI",
+      "TIR",
+      "ROT"
+    ],
+    "emoji": "💫"
+  },
+  {
+    "letters": [
+      "G",
+      "R",
+      "A",
+      "D",
+      "I",
+      "N",
+      "A"
+    ],
+    "words": [
+      "GRADINA",
+      "GRAD",
+      "DAR",
+      "RAN",
+      "RAG",
+      "DIN",
+      "NAR",
+      "GAR"
+    ],
+    "emoji": "🌻"
+  },
+  {
+    "letters": [
+      "P",
+      "I",
+      "A",
+      "T",
+      "R",
+      "A"
+    ],
+    "words": [
+      "PIATRA",
+      "PAT",
+      "TIP",
+      "PAR",
+      "ART",
+      "TIR",
+      "AIR"
+    ],
+    "emoji": "🪨"
+  },
+  {
+    "letters": [
+      "B",
+      "A",
+      "L",
+      "A",
+      "D"
+    ],
+    "words": [
+      "BALAD",
+      "BAL",
+      "DAL",
+      "LAB",
+      "BAD"
+    ],
+    "emoji": "🎵"
+  },
+  {
+    "letters": [
+      "T",
+      "R",
+      "I",
+      "B",
+      "U"
+    ],
+    "words": [
+      "TRIBU",
+      "TIR",
+      "BIR",
+      "BUR",
+      "RUT"
+    ],
+    "emoji": "👥"
+  },
+  {
+    "letters": [
+      "F",
+      "U",
+      "R",
+      "N",
+      "I",
+      "R"
+    ],
+    "words": [
+      "FURNIR",
+      "FUR",
+      "NUR",
+      "FIR",
+      "RUN",
+      "RIN"
+    ],
+    "emoji": "🪵"
+  },
+  {
+    "letters": [
+      "V",
+      "I",
+      "S",
+      "C",
+      "O",
+      "L"
+    ],
+    "words": [
+      "VISCOL",
+      "VIS",
+      "COL",
+      "SOL",
+      "COS",
+      "SIC"
+    ],
+    "emoji": "❄️"
+  },
+  {
+    "letters": [
+      "P",
+      "U",
+      "M",
+      "N",
+      "A",
+      "L"
+    ],
+    "words": [
+      "PUMNAL",
+      "PUN",
+      "MAL",
+      "PAL",
+      "NUL",
+      "LAN"
+    ],
+    "emoji": "🗡️"
+  },
+  {
+    "letters": [
+      "C",
+      "I",
+      "O",
+      "C",
+      "A",
+      "N"
+    ],
+    "words": [
+      "CIOCAN",
+      "CAN",
+      "ION",
+      "CON",
+      "NIC",
+      "COA"
+    ],
+    "emoji": "🔨"
+  },
+  {
+    "letters": [
+      "T",
+      "I",
+      "F",
+      "O",
+      "N"
+    ],
+    "words": [
+      "TIFON",
+      "TIN",
+      "FIN",
+      "ION",
+      "FIT",
+      "NOT"
+    ],
+    "emoji": "🩹"
+  },
+  {
+    "letters": [
+      "B",
+      "I",
+      "S",
+      "O",
+      "N"
+    ],
+    "words": [
+      "BISON",
+      "BIS",
+      "SON",
+      "ION",
+      "BOI",
+      "NIS"
+    ],
+    "emoji": "🦬"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "N",
+      "O",
+      "N"
+    ],
+    "words": [
+      "CANON",
+      "CAN",
+      "CON",
+      "NOC",
+      "NAC"
+    ],
+    "emoji": "📏"
+  },
+  {
+    "letters": [
+      "L",
+      "I",
+      "M",
+      "O",
+      "N"
+    ],
+    "words": [
+      "LIMON",
+      "LIN",
+      "MON",
+      "MIL",
+      "ION",
+      "NIM"
+    ],
+    "emoji": "🍋"
+  },
+  {
+    "letters": [
+      "S",
+      "A",
+      "L",
+      "C",
+      "I",
+      "E"
+    ],
+    "words": [
+      "SALCIE",
+      "SAL",
+      "LAC",
+      "CAS",
+      "SAC",
+      "LIS",
+      "ICE"
+    ],
+    "emoji": "🌳"
+  },
+  {
+    "letters": [
+      "P",
+      "L",
+      "O",
+      "A",
+      "I",
+      "E"
+    ],
+    "words": [
+      "PLOAIE",
+      "POL",
+      "PAL",
+      "LOI",
+      "OIL",
+      "AIL",
+      "PIE"
+    ],
+    "emoji": "🌧️"
+  },
+  {
+    "letters": [
+      "V",
+      "A",
+      "L",
+      "I",
+      "Z",
+      "A"
+    ],
+    "words": [
+      "VALIZA",
+      "VAL",
+      "LAV",
+      "ALI",
+      "ZAL",
+      "VIZ"
+    ],
+    "emoji": "💼"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "Z",
+      "A",
+      "N"
+    ],
+    "words": [
+      "CAZAN",
+      "CAN",
+      "ZAN",
+      "NAC",
+      "ZAC"
+    ],
+    "emoji": "🍲"
+  },
+  {
+    "letters": [
+      "B",
+      "A",
+      "Z",
+      "A",
+      "R"
+    ],
+    "words": [
+      "BAZAR",
+      "BAR",
+      "ZAR",
+      "RAZ",
+      "BAZ"
+    ],
+    "emoji": "🏪"
+  },
+  {
+    "letters": [
+      "H",
+      "A",
+      "Z",
+      "A",
+      "R",
+      "D"
+    ],
+    "words": [
+      "HAZARD",
+      "ZAR",
+      "DAR",
+      "RAZ",
+      "HAZ",
+      "RAD"
+    ],
+    "emoji": "🎲"
+  },
+  {
+    "letters": [
+      "C",
+      "R",
+      "O",
+      "N",
+      "I",
+      "C"
+    ],
+    "words": [
+      "CRONIC",
+      "COR",
+      "NOR",
+      "ION",
+      "CRI",
+      "ROI"
+    ],
+    "emoji": "📅"
+  },
+  {
+    "letters": [
+      "C",
+      "L",
+      "I",
+      "M",
+      "A",
+      "T"
+    ],
+    "words": [
+      "CLIMAT",
+      "CAL",
+      "LAC",
+      "TIM",
+      "MAT",
+      "LIT"
+    ],
+    "emoji": "🌡️"
+  },
+  {
+    "letters": [
+      "F",
+      "R",
+      "U",
+      "C",
+      "T"
+    ],
+    "words": [
+      "FRUCT",
+      "FUR",
+      "CUR",
+      "TUR",
+      "RUF",
+      "CUT"
+    ],
+    "emoji": "🍎"
+  },
+  {
+    "letters": [
+      "A",
+      "S",
+      "T",
+      "R",
+      "U"
+    ],
+    "words": [
+      "ASTRU",
+      "ART",
+      "SAT",
+      "TUR",
+      "RAS",
+      "SUR"
+    ],
+    "emoji": "⭐"
+  },
+  {
+    "letters": [
+      "F",
+      "L",
+      "U",
+      "I",
+      "D"
+    ],
+    "words": [
+      "FLUID",
+      "FIL",
+      "FUL",
+      "LID",
+      "DUI"
+    ],
+    "emoji": "🌊"
+  },
+  {
+    "letters": [
+      "G",
+      "R",
+      "A",
+      "N",
+      "I",
+      "T"
+    ],
+    "words": [
+      "GRANIT",
+      "RAN",
+      "TIN",
+      "NIT",
+      "GRI",
+      "RAG",
+      "NAR"
+    ],
+    "emoji": "🪨"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "B",
+      "A",
+      "N",
+      "A"
+    ],
+    "words": [
+      "CABANA",
+      "CAN",
+      "BAN",
+      "NAC",
+      "BAC",
+      "NAB"
+    ],
+    "emoji": "🏕️"
+  },
+  {
+    "letters": [
+      "B",
+      "A",
+      "L",
+      "A",
+      "N",
+      "S"
+    ],
+    "words": [
+      "BALANS",
+      "BAN",
+      "SAL",
+      "BAS",
+      "LAN",
+      "NAB"
+    ],
+    "emoji": "⚖️"
+  },
+  {
+    "letters": [
+      "P",
+      "A",
+      "N",
+      "I",
+      "C"
+    ],
+    "words": [
+      "PANIC",
+      "PAN",
+      "PIC",
+      "CAN",
+      "NIC",
+      "NAP"
+    ],
+    "emoji": "😱"
+  },
+  {
+    "letters": [
+      "T",
+      "O",
+      "N",
+      "I",
+      "C"
+    ],
+    "words": [
+      "TONIC",
+      "TON",
+      "TIN",
+      "ION",
+      "CON",
+      "NIT"
+    ],
+    "emoji": "💊"
+  },
+  {
+    "letters": [
+      "R",
+      "U",
+      "B",
+      "I",
+      "N"
+    ],
+    "words": [
+      "RUBIN",
+      "BUR",
+      "BIN",
+      "RUN",
+      "NUR",
+      "RIB"
+    ],
+    "emoji": "💎"
+  },
+  {
+    "letters": [
+      "S",
+      "A",
+      "T",
+      "I",
+      "N"
+    ],
+    "words": [
+      "SATIN",
+      "SAT",
+      "TIN",
+      "NAS",
+      "NIT",
+      "SIN"
+    ],
+    "emoji": "🧵"
+  },
+  {
+    "letters": [
+      "M",
+      "A",
+      "N",
+      "T",
+      "I",
+      "E"
+    ],
+    "words": [
+      "MANTIE",
+      "MAN",
+      "TIN",
+      "NET",
+      "MIN",
+      "ANT",
+      "NAI"
+    ],
+    "emoji": "🧥"
+  },
+  {
+    "letters": [
+      "S",
+      "A",
+      "P",
+      "U",
+      "N"
+    ],
+    "words": [
+      "SAPUN",
+      "PAN",
+      "PUS",
+      "NAS",
+      "SUN",
+      "NAP"
+    ],
+    "emoji": "🧼"
+  },
+  {
+    "letters": [
+      "O",
+      "G",
+      "L",
+      "I",
+      "N",
+      "D",
+      "A"
+    ],
+    "words": [
+      "OGLINDA",
+      "GOL",
+      "DIN",
+      "LIN",
+      "NOD",
+      "ION",
+      "LOG"
+    ],
+    "emoji": "🪞"
+  },
+  {
+    "letters": [
+      "T",
+      "R",
+      "I",
+      "S",
+      "T"
+    ],
+    "words": [
+      "TRIST",
+      "TIR",
+      "SIR",
+      "RIS",
+      "SIT",
+      "TIS"
+    ],
+    "emoji": "😢"
+  },
+  {
+    "letters": [
+      "C",
+      "R",
+      "U",
+      "N",
+      "T"
+    ],
+    "words": [
+      "CRUNT",
+      "CUR",
+      "NUR",
+      "TUR",
+      "RUN",
+      "CUN"
+    ],
+    "emoji": "😨"
+  },
+  {
+    "letters": [
+      "B",
+      "L",
+      "A",
+      "N",
+      "A"
+    ],
+    "words": [
+      "BLANA",
+      "BAN",
+      "LAN",
+      "BAL",
+      "NAB",
+      "ALB"
+    ],
+    "emoji": "🧥"
+  },
+  {
+    "letters": [
+      "F",
+      "L",
+      "O",
+      "A",
+      "R",
+      "E"
+    ],
+    "words": [
+      "FLOARE",
+      "FOL",
+      "ORA",
+      "ERA",
+      "ROI",
+      "FAR",
+      "ALE"
+    ],
+    "emoji": "🌹"
+  },
+  {
+    "letters": [
+      "T",
+      "R",
+      "A",
+      "N",
+      "D",
+      "A",
+      "F",
+      "I",
+      "R"
+    ],
+    "words": [
+      "TRANDAFIR",
+      "TIR",
+      "RAN",
+      "DAR",
+      "FIR",
+      "FAR",
+      "ART",
+      "DIN",
+      "AIR"
+    ],
+    "emoji": "🌹"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "R",
+      "U",
+      "S",
+      "E",
+      "L"
+    ],
+    "words": [
+      "CARUSEL",
+      "CAR",
+      "ARC",
+      "SAL",
+      "CER",
+      "ERA",
+      "RAS",
+      "SUL"
+    ],
+    "emoji": "🎠"
+  },
+  {
+    "letters": [
+      "B",
+      "U",
+      "J",
+      "O",
+      "R"
+    ],
+    "words": [
+      "BUJOR",
+      "BOR",
+      "JUR",
+      "ROB",
+      "BUJ"
+    ],
+    "emoji": "🌺"
+  },
+  {
+    "letters": [
+      "C",
+      "I",
+      "O",
+      "B",
+      "A",
+      "N"
+    ],
+    "words": [
+      "CIOBAN",
+      "BAN",
+      "ION",
+      "CAN",
+      "BOI",
+      "CON"
+    ],
+    "emoji": "🐑"
+  },
+  {
+    "letters": [
+      "A",
+      "R",
+      "G",
+      "I",
+      "N",
+      "T"
+    ],
+    "words": [
+      "ARGINT",
+      "ART",
+      "RAN",
+      "TIN",
+      "GRI",
+      "NIT",
+      "RAG"
+    ],
+    "emoji": "🥈"
+  },
+  {
+    "letters": [
+      "C",
+      "U",
+      "V",
+      "Â",
+      "N",
+      "T"
+    ],
+    "words": [
+      "CUVÂNT",
+      "CUT",
+      "TUN",
+      "NUT",
+      "VAN",
+      "CUV"
+    ],
+    "emoji": "💬"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "R",
+      "A",
+      "M",
+      "I",
+      "D"
+    ],
+    "words": [
+      "CARAMID",
+      "CAR",
+      "ARC",
+      "DAR",
+      "MAR",
+      "MIC",
+      "DIM",
+      "RAM"
+    ],
+    "emoji": "🧱"
+  },
+  {
+    "letters": [
+      "P",
+      "O",
+      "V",
+      "E",
+      "S",
+      "T",
+      "E"
+    ],
+    "words": [
+      "POVESTE",
+      "POT",
+      "SET",
+      "VES",
+      "TOP",
+      "PES",
+      "SOT"
+    ],
+    "emoji": "📖"
+  },
+  {
+    "letters": [
+      "S",
+      "T",
+      "I",
+      "C",
+      "L",
+      "A"
+    ],
+    "words": [
+      "STICLA",
+      "SAT",
+      "TIS",
+      "SIT",
+      "CAL",
+      "LAC",
+      "LIS"
+    ],
+    "emoji": "🥛"
+  },
+  {
+    "letters": [
+      "M",
+      "U",
+      "S",
+      "A",
+      "F",
+      "I",
+      "R"
+    ],
+    "words": [
+      "MUSAFIR",
+      "MAS",
+      "FIR",
+      "SIR",
+      "AIR",
+      "RAS",
+      "MIS",
+      "FAR"
+    ],
+    "emoji": "🏠"
+  },
+  {
+    "letters": [
+      "T",
+      "A",
+      "M",
+      "B",
+      "U",
+      "R"
+    ],
+    "words": [
+      "TAMBUR",
+      "TAB",
+      "BAT",
+      "MUT",
+      "TUR",
+      "BUR",
+      "RAM"
+    ],
+    "emoji": "🥁"
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "R",
+      "T",
+      "I",
+      "N",
+      "A"
+    ],
+    "words": [
+      "CORTINA",
+      "COR",
+      "TOR",
+      "ION",
+      "NOR",
+      "TIN",
+      "ART",
+      "ROT"
+    ],
+    "emoji": "🎭"
+  },
+  {
+    "letters": [
+      "S",
+      "T",
+      "R",
+      "U",
+      "G",
+      "U",
+      "R"
+    ],
+    "words": [
+      "STRUGUR",
+      "SUR",
+      "TUR",
+      "RUG",
+      "GUR",
+      "GUS",
+      "RUS"
+    ],
+    "emoji": "🍇"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "N",
+      "D",
+      "E",
+      "L",
+      "A"
+    ],
+    "words": [
+      "CANDELA",
+      "CAN",
+      "DAN",
+      "LAN",
+      "LED",
+      "NAC",
+      "ALE"
+    ],
+    "emoji": "🕯️"
+  },
+  {
+    "letters": [
+      "T",
+      "I",
+      "M",
+      "P",
+      "A",
+      "N"
+    ],
+    "words": [
+      "TIMPAN",
+      "TIN",
+      "TIP",
+      "MIN",
+      "PAN",
+      "NAP",
+      "NIT"
+    ],
+    "emoji": "🥁"
+  },
+  {
+    "letters": [
+      "P",
+      "E",
+      "S",
+      "C",
+      "A",
+      "R"
+    ],
+    "words": [
+      "PESCAR",
+      "PER",
+      "CAR",
+      "ARC",
+      "RAS",
+      "SEC",
+      "PAR"
+    ],
+    "emoji": "🎣"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "L",
+      "A",
+      "R",
+      "E",
+      "T"
+    ],
+    "words": [
+      "CALARET",
+      "CAL",
+      "LAC",
+      "ARC",
+      "ART",
+      "ERA",
+      "RAS",
+      "LAT"
+    ],
+    "emoji": "🏇"
+  },
+  {
+    "letters": [
+      "P",
+      "A",
+      "D",
+      "U",
+      "R",
+      "E"
+    ],
+    "words": [
+      "PADURE",
+      "PAR",
+      "DUR",
+      "PUR",
+      "ERA",
+      "RED",
+      "RUP"
+    ],
+    "emoji": "🌲"
+  },
+  {
+    "letters": [
+      "M",
+      "O",
+      "N",
+      "E",
+      "D",
+      "A"
+    ],
+    "words": [
+      "MONEDA",
+      "MOD",
+      "DON",
+      "NOD",
+      "MED",
+      "DEN",
+      "ODA"
+    ],
+    "emoji": "💰"
+  },
+  {
+    "letters": [
+      "V",
+      "U",
+      "L",
+      "P",
+      "E"
+    ],
+    "words": [
+      "VULPE",
+      "VUL",
+      "PUL",
+      "LUP",
+      "LEV",
+      "PEL"
+    ],
+    "emoji": "🦊"
+  },
+  {
+    "letters": [
+      "P",
+      "A",
+      "H",
+      "A",
+      "R"
+    ],
+    "words": [
+      "PAHAR",
+      "PAR",
+      "PAH",
+      "HAR",
+      "RAP"
+    ],
+    "emoji": "🥛"
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "S",
+      "C",
+      "A",
+      "D",
+      "A"
+    ],
+    "words": [
+      "CASCADA",
+      "CAS",
+      "SAC",
+      "CAD",
+      "DAS",
+      "ACA"
+    ],
+    "emoji": "🌊"
+  },
+  {
+    "letters": [
+      "B",
+      "A",
+      "L",
+      "E",
+      "N",
+      "A"
+    ],
+    "words": [
+      "BALENA",
+      "BAN",
+      "BAL",
+      "LAN",
+      "BEL",
+      "ALE"
+    ],
+    "emoji": "🐋"
+  },
+  {
+    "letters": [
+      "D",
+      "E",
+      "L",
+      "F",
+      "I",
+      "N"
+    ],
+    "words": [
+      "DELFIN",
+      "DEL",
+      "FIN",
+      "LIN",
+      "FIL",
+      "DIN"
+    ],
+    "emoji": "🐬"
   }
 ]
