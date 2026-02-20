@@ -105,18 +105,65 @@ body{display:flex;justify-content:center;background:#111}
 const GRADIENTS=["linear-gradient(180deg,#43E97B,#38F9D7)","linear-gradient(180deg,#FF9A56,#FF6B6B)","linear-gradient(180deg,#667EEA,#764BA2)","linear-gradient(180deg,#F6D365,#FDA085)","linear-gradient(180deg,#FF5F6D,#FFC371)","linear-gradient(180deg,#A8EDEA,#FED6E3)","linear-gradient(180deg,#FFB7C5,#FF69B4)","linear-gradient(180deg,#C471F5,#FA71CD)","linear-gradient(180deg,#F7971E,#FFD200)","linear-gradient(180deg,#6B73FF,#000DFF)","linear-gradient(180deg,#89F7FE,#66A6FF)","linear-gradient(180deg,#A18CD1,#FBC2EB)","linear-gradient(180deg,#8360C3,#2EBF91)","linear-gradient(180deg,#11998E,#38EF7D)","linear-gradient(180deg,#7F00FF,#E100FF)","linear-gradient(180deg,#FF6B6B,#FFD93D)","linear-gradient(180deg,#00C9FF,#92FE9D)","linear-gradient(180deg,#F77062,#FE5196)","linear-gradient(180deg,#FF8008,#FFC837)","linear-gradient(180deg,#43CEA2,#185A9D)"];
 
 let LEVELS=[];
+let shuffledOrder=[];
 let level=0,score=0,foundWords=[],hintRevealed=[];
 let letterOrder=[],isDragging=false,selectedIndices=[],currentLetters=[];
 let gridMap={},gridData=null;
 
+const SAVE_KEY="cuvinte_magice_progress";
+
 const $=id=>document.getElementById(id);
 const game=$("game"),gridBox=$("gridBox"),wheelEl=$("wheel"),wheelSvg=$("wheelSvg"),currentWordEl=$("currentWord"),scoreText=$("scoreText"),levelNum=$("levelNum"),levelEmoji=$("levelEmoji"),starsEl=$("stars"),overlay=$("overlay"),confettiEl=$("confetti");
 
-async function loadLevels(){
-  try{const r=await fetch("levels.json");LEVELS=await r.json()}catch(e){
-   
+function saveProgress(){
+  const data={level,score,shuffledOrder};
+  try{localStorage.setItem(SAVE_KEY,JSON.stringify(data))}catch(e){}
+}
+
+function loadProgress(){
+  try{
+    const raw=localStorage.getItem(SAVE_KEY);
+    if(!raw)return null;
+    return JSON.parse(raw);
+  }catch(e){return null}
+}
+
+// Seeded shuffle for reproducible random order per total level count
+function shuffleArray(a){
+  const b=[...a];
+  for(let i=b.length-1;i>0;i--){
+    const j=Math.floor(Math.random()*(i+1));
+    [b[i],b[j]]=[b[j],b[i]];
   }
+  return b;
+}
+
+function initShuffledOrder(){
+  const saved=loadProgress();
+  if(saved&&saved.shuffledOrder&&saved.shuffledOrder.length===LEVELS.length){
+    shuffledOrder=saved.shuffledOrder;
+    level=saved.level||0;
+    score=saved.score||0;
+  }else{
+    shuffledOrder=shuffleArray([...Array(LEVELS.length).keys()]);
+    level=0;score=0;
+  }
+}
+
+async function loadLevels(){
+  try{const r=await fetch("levels.json");LEVELS=await r.json()}catch(e){}
+  initShuffledOrder();
   initLevel();
+}
+
+function getCurrentLevel(){
+  // When all levels are played, reshuffle
+  if(level>=shuffledOrder.length){
+    shuffledOrder=shuffleArray([...Array(LEVELS.length).keys()]);
+    level=0;
+    saveProgress();
+  }
+  return LEVELS[shuffledOrder[level]];
 }
 
 // Crossword auto-layout
@@ -172,7 +219,7 @@ function shuffle(a){const b=[...a];for(let i=b.length-1;i>0;i--){const j=Math.fl
 function canForm(w,l){const p=[...l];for(const c of w){const i=p.indexOf(c);if(i===-1)return false;p.splice(i,1)}return true}
 
 function initLevel(){
-  const lv=LEVELS[level%LEVELS.length];
+  const lv=getCurrentLevel();
   const validWords=lv.words.filter(w=>canForm(w,lv.letters));
   foundWords=[];hintRevealed=[];selectedIndices=[];currentLetters=[];isDragging=false;
   letterOrder=shuffle([...Array(lv.letters.length).keys()]);
@@ -219,7 +266,7 @@ function flashWord(word){
 }
 
 function renderWheel(){
-  const lv=LEVELS[level%LEVELS.length],count=lv.letters.length;
+  const lv=getCurrentLevel(),count=lv.letters.length;
   const ms=Math.min(240,window.innerWidth-40,window.innerHeight*.32),r=ms*.35,cx=ms/2,cy=ms/2,ts=Math.min(52,ms*.23);
   wheelEl.style.width=ms+"px";wheelEl.style.height=ms+"px";
   wheelSvg.setAttribute("width",ms);wheelSvg.setAttribute("height",ms);wheelSvg.innerHTML="";
@@ -254,7 +301,7 @@ function endDrag(){
   }else if(word.length>1){currentWordEl.classList.add("shake");setTimeout(()=>currentWordEl.classList.remove("shake"),400)}
   selectedIndices=[];currentLetters=[];updateUI();setTimeout(()=>{currentWordEl.style.display="none"},200);
 }
-function getLetterAt(i){return LEVELS[level%LEVELS.length].letters[letterOrder[i]]}
+function getLetterAt(i){return getCurrentLevel().letters[letterOrder[i]]}
 function updateUI(){
   if(currentLetters.length>0){currentWordEl.textContent=currentLetters.join("");currentWordEl.style.display=""}else currentWordEl.style.display="none";
   wheelEl.querySelectorAll(".wheel-letter").forEach(e=>{e.classList.toggle("selected",selectedIndices.includes(+e.dataset.idx))});
@@ -268,11 +315,14 @@ function updateUI(){
 }
 function handleTouchMove(e){if(!isDragging)return;e.preventDefault();const t=e.touches[0],el=document.elementFromPoint(t.clientX,t.clientY);if(el&&el.classList.contains("wheel-letter"))enterDrag(+el.dataset.idx)}
 function showComplete(){
-  const lv=LEVELS[level%LEVELS.length],pts=gridData.words.reduce((s,w)=>s+w.word.length*10,0);
+  const lv=getCurrentLevel(),pts=gridData.words.reduce((s,w)=>s+w.word.length*10,0);
   $("completeEmoji").textContent=lv.emoji||"🎉";$("completeSub").textContent=`Nivel ${level+1} completat!`;
   $("completePoints").innerHTML=`<span>💎</span> +${pts}`;
   document.querySelector(".next-btn").style.background=GRADIENTS[level%GRADIENTS.length];
   overlay.classList.remove("hidden");showConfetti();
+  // Save progress after completing level
+  level++;
+  saveProgress();
 }
 function showConfetti(){
   const cols=["#FF6B6B","#FFD93D","#6BCB77","#4D96FF","#FF69B4","#A66CFF"];let h="";
@@ -289,12 +339,12 @@ function createBubbles(){
 document.addEventListener("mouseup",endDrag);
 document.addEventListener("touchend",endDrag);
 document.addEventListener("touchmove",handleTouchMove,{passive:false});
-$("btnNext").addEventListener("click",()=>{level++;initLevel()});
+$("btnNext").addEventListener("click",()=>{initLevel()});
 $("btnHint").addEventListener("click",()=>{
   const tw=gridData.words.map(w=>w.word),nf=tw.filter(w=>!foundWords.includes(w));
   if(!nf.length)return;if(!hintRevealed.includes(nf[0])){hintRevealed.push(nf[0]);score=Math.max(0,score-15);scoreText.textContent=score;renderGrid()}
 });
-$("btnShuffle").addEventListener("click",()=>{letterOrder=shuffle([...Array(LEVELS[level%LEVELS.length].letters.length).keys()]);renderWheel()});
+$("btnShuffle").addEventListener("click",()=>{letterOrder=shuffle([...Array(getCurrentLevel().letters.length).keys()]);renderWheel()});
 window.addEventListener("resize",()=>{renderGrid();renderWheel()});
 loadLevels();
 </script>
